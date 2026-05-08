@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=160&duration=1800&pause=600&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=false&width=6000&height=700&lines=%5B+WHO+AM+I+%5D;user%404nx3b+%E2%86%92+Android+Root+Specialist" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=450&color=0:050008,50:2D004D,100:000000&text=4nx3b&fontSize=170&fontColor=C77DFF&fontAlignY=38&animation=fadeIn&desc=android%20root%20•%20kernel%20mods%20•%20linux%20•%20anime&descAlignY=60&descSize=45"/>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=110&duration=3200&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=7000&height=5000&lines=handle+%E2%86%92+4nx3b;alias+%E2%86%92+frost;role+%E2%86%92+Android+Root+Specialist;focus+%E2%86%92+kernels+%2F+mods+%2F+system+internals;mindset+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+rebuild;.;os+%E2%86%92+linux+%2F+android;terminal+%E2%86%92+always+open;editor+%E2%86%92+vscode;shell+%E2%86%92+bash;.;specialties+%E2%86%92+magisk+%2F+kernelsu+%2F+recovery+mods;specialties+%E2%86%92+boot+image+patching;specialties+%E2%86%92+android+optimization;specialties+%E2%86%92+low-level+linux+tweaks;.;interests+%E2%86%92+anime;interests+%E2%86%92+japanese+music;interests+%E2%86%92+gaming;interests+%E2%86%92+cyber+aesthetics;interests+%E2%86%92+open+source;interests+%E2%86%92+talking+about+tech;.;current+state+%E2%86%92+experimenting;current+state+%E2%86%92+debugging;current+state+%E2%86%92+modifying+everything;.;philosophy+%E2%86%92+real+ownership+starts+with+root+access" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=250&duration=2200&pause=800&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=false&width=9000&height=1100&lines=%F0%9F%91%BE+%5B+WHO+AM+I+%5D+%F0%9F%91%BE;user%404nx3b+%E2%86%92+Android+Root+Specialist" />
+
+<br/><br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=170&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&multiline=true&width=12000&height=9000&lines=%F0%9F%94%AE+handle+%E2%86%92+4nx3b;%E2%9D%84%EF%B8%8F+alias+%E2%86%92+frost;%F0%9F%93%B1+role+%E2%86%92+Android+Root+Specialist;%F0%9F%9B%A0%EF%B8%8F+focus+%E2%86%92+kernels+%2F+mods+%2F+system+internals;%F0%9F%A7%A0+mindset+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+rebuild;.;%F0%9F%90%A7+os+%E2%86%92+linux+%2F+android;%F0%9F%96%A5%EF%B8%8F+terminal+%E2%86%92+always+open;%F0%9F%92%BB+editor+%E2%86%92+vscode;%E2%9A%A1+shell+%E2%86%92+bash;.;%F0%9F%A7%A9+specialties+%E2%86%92+magisk+%2F+kernelsu+%2F+recovery+mods;%F0%9F%94%A5+specialties+%E2%86%92+boot+image+patching;%F0%9F%9A%80+specialties+%E2%86%92+android+optimization;%F0%9F%92%80+specialties+%E2%86%92+low-level+linux+tweaks;.;%F0%9F%8E%8C+interests+%E2%86%92+anime;%F0%9F%8E%A7+interests+%E2%86%92+japanese+music;%F0%9F%8E%AE+interests+%E2%86%92+gaming;%F0%9F%8C%8C+interests+%E2%86%92+cyber+aesthetics;%F0%9F%93%A6+interests+%E2%86%92+open+source;%F0%9F%97%A3%EF%B8%8F+interests+%E2%86%92+talking+about+tech;.;%F0%9F%A7%AA+current+state+%E2%86%92+experimenting;%F0%9F%94%A7+current+state+%E2%86%92+debugging;%F0%9F%92%A3+current+state+%E2%86%92+modifying+everything;.;%F0%9F%91%91+philosophy+%E2%86%92+real+ownership+starts+with+root+access" />
 
 <br/><br/><br/><br/><br/>
 
@@ -12,7 +16,7 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=130&duration=2200&pause=700&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=false&width=6000&height=1400&lines=%5B+SYSTEM+STATUS+%5D;%3E+Bootloader+Unlocked;%3E+Root+Access+Granted;%3E+Kernel+Modified;%3E+Integrity+Verification+Disabled" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=220&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=false&width=9000&height=2600&lines=%F0%9F%9A%A8+%5B+SYSTEM+STATUS+%5D+%F0%9F%9A%A8;%F0%9F%94%93+Bootloader+Unlocked;%E2%9A%A1+Root+Access+Granted;%F0%9F%94%A5+Kernel+Modified;%F0%9F%9B%A1%EF%B8%8F+Integrity+Verification+Disabled" />
 
 <br/><br/><br/><br/><br/>
 
@@ -21,52 +25,57 @@
 <img src="https://img.shields.io/badge/Gaming-181825?style=for-the-badge&logo=steam&logoColor=C77DFF"/>
 <img src="https://img.shields.io/badge/Linux-181825?style=for-the-badge&logo=linux&logoColor=9D4EDD"/>
 <img src="https://img.shields.io/badge/Open_Source-181825?style=for-the-badge&logo=github&logoColor=C77DFF"/>
-
-<br/><br/><br/><br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=20&width=100%" />
-
-<br/><br/><br/><br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=145&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=6500&height=500&lines=%5B+ANDROID+ARSENAL+%5D" />
-
-<br/><br/><br/><br/>
-
 <img src="https://img.shields.io/badge/Magisk-181825?style=for-the-badge&logo=android&logoColor=C77DFF"/>
 <img src="https://img.shields.io/badge/KernelSU-181825?style=for-the-badge&logo=linux&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/TWRP-181825?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
-<img src="https://img.shields.io/badge/OrangeFox-181825?style=for-the-badge&logo=firefoxbrowser&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/ADB-181825?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
-<img src="https://img.shields.io/badge/Fastboot-181825?style=for-the-badge&logo=android&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/LSPosed-181825?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
+
+<br/><br/><br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=25&width=100%" />
+
+<br/><br/><br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=240&duration=2200&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=false&width=9000&height=1000&lines=%F0%9F%94%A5+%5B+ANDROID+ARSENAL+%5D+%F0%9F%94%A5" />
+
+<br/><br/><br/><br/>
+
+<img src="https://img.shields.io/badge/Magisk-000000?style=for-the-badge&logo=android&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/KernelSU-000000?style=for-the-badge&logo=linux&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/TWRP-000000?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
+<img src="https://img.shields.io/badge/OrangeFox-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
+<img src="https://img.shields.io/badge/Fastboot-000000?style=for-the-badge&logo=android&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/LSPosed-000000?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=C77DFF"/>
 
 <br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=145&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=6500&height=500&lines=%5B+CURRENT+MISSION+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=240&duration=2200&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=false&width=9000&height=1000&lines=%F0%9F%8E%AF+%5B+CURRENT+MISSION+%5D+%F0%9F%8E%AF" />
 
 <br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=90&duration=2600&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=7000&height=2200&lines=%3E+optimizing+android+beyond+stock+limits;%3E+building+cleaner+and+faster+systems;%3E+experimenting+with+kernels+and+modules;%3E+turning+customization+into+an+artform" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=150&duration=3200&pause=1200&color=9D4EDD&center=true&vCenter=true&multiline=true&width=12000&height=5000&lines=%F0%9F%9A%80+optimizing+android+beyond+stock+limits;%F0%9F%94%A5+building+cleaner+and+faster+systems;%F0%9F%A7%A9+experimenting+with+kernels+and+modules;%F0%9F%8E%A8+turning+customization+into+an+artform" />
 
 <br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=145&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=6500&height=500&lines=%5B+GITHUB+STATS+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=240&duration=2200&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=false&width=9000&height=1000&lines=%F0%9F%93%8A+%5B+GITHUB+STATS+%5D+%F0%9F%93%8A" />
 
 <br/><br/><br/><br/>
 
-<img height="600" src="https://github-readme-stats.vercel.app/api?username=4nx3b&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img height="900" src="https://github-readme-stats.vercel.app/api?username=4nx3b&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 <br/><br/><br/><br/>
 
-<img height="600" src="https://github-readme-streak-stats.herokuapp.com/?user=4nx3b&theme=midnight-purple&hide_border=true&background=0D1117"/>
+<img height="900" src="https://github-readme-streak-stats.herokuapp.com/?user=4nx3b&theme=midnight-purple&hide_border=true&background=0D1117"/>
 
 <br/><br/><br/><br/>
 
-<img height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img height="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 <br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=145&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=6500&height=500&lines=%5B+ACTIVITY+GRAPH+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=240&duration=2200&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=false&width=9000&height=1000&lines=%F0%9F%93%88+%5B+ACTIVITY+GRAPH+%5D+%F0%9F%93%88" />
 
 <br/><br/><br/><br/>
 
@@ -74,7 +83,7 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=145&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=6500&height=500&lines=%5B+PROFILE+VIBES+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=240&duration=2200&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=false&width=9000&height=1000&lines=%F0%9F%8C%8C+%5B+PROFILE+VIBES+%5D+%F0%9F%8C%8C" />
 
 <br/><br/><br/><br/>
 
@@ -82,20 +91,20 @@
 
 <br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=90&duration=2600&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=6500&height=1400&lines=root+access+feels+like+freedom;linux+feels+like+home;anime+soundtracks+hit+harder+at+night" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=150&duration=3200&pause=1200&color=9D4EDD&center=true&vCenter=true&multiline=true&width=12000&height=3500&lines=%F0%9F%94%93+root+access+feels+like+freedom;%F0%9F%90%A7+linux+feels+like+home;%F0%9F%8E%A7+anime+soundtracks+hit+harder+at+night" />
 
 <br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=145&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=5000&height=500&lines=%5B+CONNECT+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=240&duration=2200&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=false&width=9000&height=1000&lines=%F0%9F%8C%90+%5B+CONNECT+%5D+%F0%9F%8C%90" />
 
 <br/><br/><br/><br/>
 
 <a href="https://github.com/4nx3b">
-<img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C77DFF"/>
 </a>
 
 <br/><br/><br/><br/><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=500&color=0:0D0017,50:3B0764,100:000000&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=700&color=0:0D0017,50:3B0764,100:000000&section=footer"/>
 
 </div>
