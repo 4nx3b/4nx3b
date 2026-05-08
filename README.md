@@ -36,7 +36,9 @@
 
 <br/>
 
+<!-- ANIME_START -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=220&lines=%E2%9C%A6+%E2%96%B6+Frieren%3A+Beyond+Journey%27s+End;%E2%9C%A6+%E2%96%B6+Dandadan;%E2%9C%A6+%E2%96%B6+Solo+Leveling;%E2%9C%A6+%E2%96%B6+Spy+x+Family;%E2%9C%A6+%E2%96%B6+Demon+Slayer" />
+<!-- ANIME_END -->
 
 <br/>
 
