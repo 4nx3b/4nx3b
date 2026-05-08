@@ -14,13 +14,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=30&duration=2200&pause=1200&color=7DD3FC&center=true&vCenter=true&repeat=false&width=700&height=60&lines=%F0%9F%91%BE+WHO+AM+I" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=60&duration=2200&pause=1200&color=7DD3FC&center=true&vCenter=true&repeat=false&width=1400&height=120&lines=%F0%9F%91%BE+WHO+AM+I" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7DD3FC"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2600&pause=1200&color=E2E8F0&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=520&lines=%E2%9D%84%EF%B8%8F+alias+%E2%86%92+frost;%F0%9F%93%B1+android+root+specialist;%F0%9F%94%A5+kernels+%2F+mods+%2F+system+internals;%F0%9F%A7%A0+break+%E2%86%92+understand+%E2%86%92+rebuild;%F0%9F%90%A7+linux+%2F+android;%E2%9A%A1+bash+%2F+adb+%2F+fastboot;%F0%9F%8E%AE+anime+%2F+gaming+%2F+japanese+music;%F0%9F%92%BB+always+talking+about+tech" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=44&duration=2600&pause=1200&color=E2E8F0&center=true&vCenter=true&multiline=true&repeat=false&width=2000&height=980&lines=%E2%9D%84%EF%B8%8F+alias+%E2%86%92+frost;%F0%9F%93%B1+android+root+specialist;%F0%9F%94%A5+kernels+%2F+mods+%2F+system+internals;%F0%9F%A7%A0+break+%E2%86%92+understand+%E2%86%92+rebuild;%F0%9F%90%A7+linux+%2F+android;%E2%9A%A1+bash+%2F+adb+%2F+fastboot;%F0%9F%8E%AE+anime+%2F+gaming+%2F+japanese+music;%F0%9F%92%BB+always+talking+about+tech" />
 
 </div>
 
@@ -56,13 +56,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=30&duration=2200&pause=1200&color=4ADE80&center=true&vCenter=true&repeat=false&width=700&height=60&lines=%F0%9F%9A%A8+SYSTEM+STATUS" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=60&duration=2200&pause=1200&color=4ADE80&center=true&vCenter=true&repeat=false&width=1400&height=120&lines=%F0%9F%9A%A8+SYSTEM+STATUS" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=4ADE80"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2600&pause=1200&color=DCFCE7&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=240&lines=%F0%9F%94%93+Bootloader+Unlocked;%E2%9A%A1+Root+Access+Granted;%F0%9F%94%A5+Kernel+Modified;%F0%9F%9B%A1%EF%B8%8F+Integrity+Disabled" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=44&duration=2600&pause=1200&color=DCFCE7&center=true&vCenter=true&multiline=true&repeat=false&width=1800&height=480&lines=%F0%9F%94%93+Bootloader+Unlocked;%E2%9A%A1+Root+Access+Granted;%F0%9F%94%A5+Kernel+Modified;%F0%9F%9B%A1%EF%B8%8F+Integrity+Disabled" />
 
 <br/>
 
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=30&duration=2200&pause=1200&color=FB923C&center=true&vCenter=true&repeat=false&width=700&height=60&lines=%F0%9F%94%A5+ANDROID+ARSENAL" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=60&duration=2200&pause=1200&color=FB923C&center=true&vCenter=true&repeat=false&width=1400&height=120&lines=%F0%9F%94%A5+ANDROID+ARSENAL" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FB923C"/>
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=30&duration=2200&pause=1200&color=F472B6&center=true&vCenter=true&repeat=false&width=700&height=60&lines=%F0%9F%93%8A+GITHUB+STATS" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=60&duration=2200&pause=1200&color=F472B6&center=true&vCenter=true&repeat=false&width=1400&height=120&lines=%F0%9F%93%8A+GITHUB+STATS" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F472B6"/>
 
@@ -144,7 +144,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=30&duration=2200&pause=1200&color=FACC15&center=true&vCenter=true&repeat=false&width=700&height=60&lines=%F0%9F%93%88+ACTIVITY" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=60&duration=2200&pause=1200&color=FACC15&center=true&vCenter=true&repeat=false&width=1400&height=120&lines=%F0%9F%93%88+ACTIVITY" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FACC15"/>
 
@@ -168,17 +168,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=30&duration=2200&pause=1200&color=C084FC&center=true&vCenter=true&repeat=false&width=700&height=60&lines=%F0%9F%8C%8C+VIBES" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=60&duration=2200&pause=1200&color=C084FC&center=true&vCenter=true&repeat=false&width=1400&height=120&lines=%F0%9F%8C%8C+VIBES" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C084FC"/>
 
 <br/>
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime.gif" width="100%" style="border-radius:14px;" />
+<img src="https://wallpapercave.com/wp/wp2757874.jpg" width="100%" style="border-radius:14px;" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2600&pause=1200&color=F5F3FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=150&lines=%F0%9F%94%93+root+access+feels+like+freedom;%F0%9F%8E%A7+anime+soundtracks+at+night;%F0%9F%90%A7+linux+feels+like+home" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=40&duration=2600&pause=1200&color=F5F3FF&center=true&vCenter=true&multiline=true&repeat=false&width=1800&height=280&lines=%F0%9F%94%93+root+access+feels+like+freedom;%F0%9F%8E%A7+anime+soundtracks+at+night;%F0%9F%90%A7+linux+feels+like+home" />
 
 </div>
 
@@ -196,7 +196,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=30&duration=2200&pause=1200&color=F87171&center=true&vCenter=true&repeat=false&width=700&height=60&lines=%F0%9F%8C%90+CONNECT" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=60&duration=2200&pause=1200&color=F87171&center=true&vCenter=true&repeat=false&width=1400&height=120&lines=%F0%9F%8C%90+CONNECT" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F87171"/>
 
