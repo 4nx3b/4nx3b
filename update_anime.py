@@ -16,6 +16,7 @@ import sys
 ANILIST_USERNAME = os.environ.get("ANILIST_USERNAME") or "4nx3b"  # ← fallback username
 MAX_SHOWS        = 8
 README_PATH      = "README.md"
+MAX_TITLE_LEN    = 35  # titles longer than this get split onto two lines
 # ─────────────────────────────────────────────────────────────────────────────
 
 print(f"✦ Using AniList username: {ANILIST_USERNAME}")
@@ -88,24 +89,51 @@ def fetch_watching(username: str) -> list:
     return entries[:MAX_SHOWS]
 
 
-def build_typing_svg_url(entries: list) -> str:
-    def encode_title(t: str) -> str:
-        # Keep printable ASCII only, encode specials for URL
-        safe = re.sub(r"[^a-zA-Z0-9 :\-!]", "", t)
-        return (safe.strip()
-                    .replace(" ", "+")
-                    .replace(":", "%3A")
-                    .replace("!", "%21"))
+def encode_title(t: str) -> str:
+    """Keep printable ASCII only, encode specials for URL."""
+    safe = re.sub(r"[^a-zA-Z0-9 :\-!]", "", t)
+    return (safe.strip()
+                .replace(" ", "+")
+                .replace(":", "%3A")
+                .replace("!", "%21"))
 
+
+def split_title(title: str, max_len: int = MAX_TITLE_LEN):
+    """
+    If title exceeds max_len, split at the last space before the limit.
+    Returns a list of 1 or 2 parts (already encoded for URL).
+    """
+    if len(title) <= max_len:
+        return [encode_title(title)]
+
+    # Find the last space at or before max_len
+    split_at = title.rfind(" ", 0, max_len)
+    if split_at == -1:
+        # No space found — hard cut at max_len
+        split_at = max_len
+
+    part1 = encode_title(title[:split_at])
+    part2 = encode_title(title[split_at:].strip())
+    return [part1, part2]
+
+
+def build_typing_svg_url(entries: list) -> str:
     if not entries:
         lines = ["%E2%9C%A6+%E2%96%B6+Nothing+in+watching+list"]
     else:
         lines = []
         for e in entries:
-            safe  = encode_title(e["title"])
-            prog  = e["progress"]
-            eps   = e["episodes"]
-            lines.append(f"%E2%9C%A6+%E2%96%B6+{safe}+%28{prog}%2F{eps}%29")
+            title_parts = split_title(e["title"])
+            prog = e["progress"]
+            eps  = e["episodes"]
+
+            if len(title_parts) == 1:
+                # Single line: ✦ ▶ Title (ep/total)
+                lines.append(f"%E2%9C%A6+%E2%96%B6+{title_parts[0]}+%28{prog}%2F{eps}%29")
+            else:
+                # Two lines: first line has title part 1, second has part 2 + progress
+                lines.append(f"%E2%9C%A6+%E2%96%B6+{title_parts[0]}")
+                lines.append(f"%E2%9C%A6+++%E2%86%AA+{title_parts[1]}+%28{prog}%2F{eps}%29")
 
     line_str   = ";".join(lines)
     svg_height = max(60, len(lines) * 44)
