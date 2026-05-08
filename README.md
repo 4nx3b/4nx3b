@@ -18,25 +18,22 @@
 
 <div align="center">
 
+<div align="center">
+
 ## ◈ `[ WHO AM I ]` ◈
 
-</div>
+<br/>
 
-```ansi
-╔══════════════════════════════════════════════════════════════╗
-║  user@4nx3b:~$ cat /etc/profile                             ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  handle    →  4nx3b                                          ║
-║  role      →  Android Root Dev / Kernel Tinker               ║
-║  method    →  break → understand → rebuild                   ║
-║  passion   →  system internals, low-level Linux, RE          ║
-║                                                              ║
-║  tools     →  Magisk · KernelSU · TWRP · ADB · fastboot     ║
-║  builds    →  Custom ROMs · Boot mods · Kernel patches       ║
-║  learning  →  Android internals · ELF binaries · ARM ASM     ║
-║                                                              ║
-║  os        →  Windows · Android (rooted, obviously)          ║
-║  motto     →  "If it boots, it can be modded."               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1800&pause=600&color=9D4EDD&center=true&vCenter=true&width=700&height=30&lines=user%404nx3b%3A~%24+cat+%2Fetc%2Fprofile" />
+
+<br/>
+
+<table>
+<tr>
+<td align="left">
+
+```yaml
+handle    →  4nx3b
+role      →  Android Root Dev / Kernel Tinker
+method    →  break → understand → rebuild
+passion   →  system internals, low-level Linux, RE
