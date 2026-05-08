@@ -177,6 +177,6 @@
 <br/><br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,35:1E1B4B,70:111827,100:050816&section=footer&animation=fadeIn"/>
+<img src="https://tenor.com/bYPhA.gif?type=waving&height=140&color=0:000000,35:1E1B4B,70:111827,100:050816&section=footer&animation=fadeIn"/>
 
 </div>
