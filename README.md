@@ -2,17 +2,17 @@
 
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,30:111827,70:1E1B4B,100:000000&text=4nx3b&fontSize=84&fontColor=7DD3FC&fontAlignY=36&animation=fadeIn&desc=%E2%9C%A6%20android%20root%20%E2%80%A2%20linux%20%E2%80%A2%20anime%20%E2%80%A2%20cyberpunk%20%E2%9C%A6&descAlignY=62&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,40:111827,75:1E1B4B,100:000000&text=4nx3b&fontSize=84&fontColor=7DD3FC&fontAlignY=36&animation=fadeIn&desc=%E2%9C%A6%20android%20root%20%E2%80%A2%20linux%20%E2%80%A2%20anime%20%E2%9C%A6&descAlignY=62&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=34&duration=800&pause=0&color=C084FC&center=true&vCenter=true&repeat=false&width=1600&height=70&lines=%E2%9C%A6+SYSTEM+ONLINE+%E2%9C%A6+ROOT+ACCESS+GRANTED+%E2%9C%A6+4NX3B+INITIALIZED+%E2%9C%A6" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=36&duration=2800&pause=0&color=C084FC&center=true&vCenter=true&repeat=false&width=1800&height=80&lines=%E2%9C%A6+SYSTEM+ONLINE+%E2%9C%A6+ROOT+ACCESS+GRANTED+%E2%9C%A6+4NX3B+INITIALIZED+%E2%9C%A6" />
 
 <br/><br/>
 
-<!-- ICON STRIP -->
+<!-- TOP DECOR -->
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,androidstudio,cpp,python" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12,20,24,30"/>
 
 <br/><br/>
 
@@ -24,20 +24,20 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=62&duration=800&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=1600&height=120&lines=%F0%9F%91%BE+WHO+AM+I+%F0%9F%91%BE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=3000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=1700&height=120&lines=%E2%9C%A6+WHO+AM+I+%E2%9C%A6" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7DD3FC&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=42&duration=800&pause=0&color=E2E8F0&center=true&vCenter=true&multiline=true&repeat=false&width=2200&height=1000&lines=%E2%9D%84%EF%B8%8F+alias+%E2%86%92+frost;%F0%9F%93%B1+android+root+specialist;%F0%9F%94%A5+kernels+%2F+mods+%2F+system+internals;%F0%9F%A7%A0+break+%E2%86%92+understand+%E2%86%92+rebuild;%F0%9F%90%A7+linux+%2F+android;%E2%9A%A1+bash+%2F+adb+%2F+fastboot;%F0%9F%8E%AE+anime+%2F+gaming+%2F+japanese+music;%F0%9F%92%BB+always+talking+about+tech;%F0%9F%8C%8C+cyberpunk+aesthetic+enjoyer" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=42&duration=3200&pause=0&color=E2E8F0&center=true&vCenter=true&multiline=true&repeat=false&width=2400&height=1000&lines=%E2%9C%A6+alias+%E2%86%92+frost;%E2%9C%A6+android+root+specialist;%E2%9C%A6+kernels+%2F+mods+%2F+system+internals;%E2%9C%A6+break+%E2%86%92+understand+%E2%86%92+rebuild;%E2%9C%A6+linux+%2F+android;%E2%9C%A6+bash+%2F+adb+%2F+fastboot;%E2%9C%A6+anime+%2F+gaming+%2F+japanese+music;%E2%9C%A6+always+talking+about+tech;%E2%9C%A6+cyberpunk+aesthetic" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%92%80_Rooting-111827?style=for-the-badge&logo=android&logoColor=7DD3FC"/>
-<img src="https://img.shields.io/badge/%F0%9F%94%A5_Kernel_Mods-111827?style=for-the-badge&logo=linux&logoColor=7DD3FC"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%AE_Gaming-111827?style=for-the-badge&logo=steam&logoColor=7DD3FC"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%A7_J--Music-111827?style=for-the-badge&logo=spotify&logoColor=7DD3FC"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6-111827?style=for-the-badge&logo=starship&logoColor=7DD3FC"/>
+<img src="https://img.shields.io/badge/%E2%97%88-111827?style=for-the-badge&logo=torbrowser&logoColor=7DD3FC"/>
+<img src="https://img.shields.io/badge/%E2%97%86-111827?style=for-the-badge&logo=matrix&logoColor=7DD3FC"/>
+<img src="https://img.shields.io/badge/%E2%9C%B4-111827?style=for-the-badge&logo=protondrive&logoColor=7DD3FC"/>
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <!-- MAIN VISUAL -->
 
-<img src="https://media.tenor.com/LR4m6Wz-XzcAAAAC/anime-computer.gif" width="100%" style="border-radius:18px;"/>
+<img src="https://media.tenor.com/LR4m6Wz-XzcAAAAC/anime-computer.gif" width="100%" style="border-radius:18px;" />
 
 <br/><br/>
 
@@ -61,20 +61,20 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=62&duration=800&pause=0&color=4ADE80&center=true&vCenter=true&repeat=false&width=1600&height=120&lines=%F0%9F%9A%A8+SYSTEM+STATUS+%F0%9F%9A%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=3000&pause=0&color=4ADE80&center=true&vCenter=true&repeat=false&width=1700&height=120&lines=%E2%9C%A6+SYSTEM+STATUS+%E2%9C%A6" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=4ADE80&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=42&duration=800&pause=0&color=DCFCE7&center=true&vCenter=true&multiline=true&repeat=false&width=2200&height=500&lines=%F0%9F%94%93+Bootloader+Unlocked;%E2%9A%A1+Root+Access+Granted;%F0%9F%94%A5+Kernel+Modified;%F0%9F%9B%A1%EF%B8%8F+Integrity+Disabled" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=42&duration=3200&pause=0&color=DCFCE7&center=true&vCenter=true&multiline=true&repeat=false&width=2200&height=500&lines=%E2%9C%A6+Bootloader+Unlocked;%E2%9C%A6+Root+Access+Granted;%E2%9C%A6+Kernel+Modified;%E2%9C%A6+Integrity+Disabled" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%90%A7_Linux-111827?style=for-the-badge&logo=linux&logoColor=4ADE80"/>
-<img src="https://img.shields.io/badge/%F0%9F%93%A6_Open_Source-111827?style=for-the-badge&logo=github&logoColor=4ADE80"/>
-<img src="https://img.shields.io/badge/%F0%9F%8C%99_Night_Owl-111827?style=for-the-badge&logo=vercel&logoColor=4ADE80"/>
-<img src="https://img.shields.io/badge/%F0%9F%92%BB_Debugging-111827?style=for-the-badge&logo=visualstudiocode&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/%E2%97%88-111827?style=for-the-badge&logo=electron&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6-111827?style=for-the-badge&logo=tauri&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/%E2%97%86-111827?style=for-the-badge&logo=vercel&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/%E2%9C%B4-111827?style=for-the-badge&logo=cloudflare&logoColor=4ADE80"/>
 
 </div>
 
@@ -92,23 +92,23 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=62&duration=800&pause=0&color=FB923C&center=true&vCenter=true&repeat=false&width=1600&height=120&lines=%F0%9F%94%A5+ANDROID+ARSENAL+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=3000&pause=0&color=FB923C&center=true&vCenter=true&repeat=false&width=1700&height=120&lines=%E2%9C%A6+ANDROID+ARSENAL+%E2%9C%A6" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FB923C&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%B1_Magisk-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
-<img src="https://img.shields.io/badge/%F0%9F%94%A7_KernelSU-111827?style=for-the-badge&logo=linux&logoColor=FB923C"/>
-<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_TWRP-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
-<img src="https://img.shields.io/badge/%F0%9F%A6%8A_OrangeFox-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/Magisk-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/KernelSU-111827?style=for-the-badge&logo=linux&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/TWRP-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/OrangeFox-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=FB923C"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%E2%9A%A1_ADB-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_Fastboot-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
-<img src="https://img.shields.io/badge/%F0%9F%A7%A9_LSPosed-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
-<img src="https://img.shields.io/badge/%F0%9F%92%80_Custom_ROMs-111827?style=for-the-badge&logo=lineageos&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/ADB-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/Fastboot-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/LSPosed-111827?style=for-the-badge&logo=android&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/Custom_ROMs-111827?style=for-the-badge&logo=lineageos&logoColor=FB923C"/>
 
 </div>
 
@@ -118,7 +118,7 @@
 
 <br/>
 
-<!-- GITHUB STATS -->
+<!-- STATS -->
 
 <table width="100%">
 <tr>
@@ -126,7 +126,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=62&duration=800&pause=0&color=F472B6&center=true&vCenter=true&repeat=false&width=1600&height=120&lines=%F0%9F%93%8A+GITHUB+STATS+%F0%9F%93%8A" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=3000&pause=0&color=F472B6&center=true&vCenter=true&repeat=false&width=1700&height=120&lines=%E2%9C%A6+GITHUB+STATS+%E2%9C%A6" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=F472B6&animation=fadeIn"/>
 
@@ -158,7 +158,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=62&duration=800&pause=0&color=FACC15&center=true&vCenter=true&repeat=false&width=1600&height=120&lines=%F0%9F%93%88+ACTIVITY+GRAPH+%F0%9F%93%88" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=3000&pause=0&color=FACC15&center=true&vCenter=true&repeat=false&width=1700&height=120&lines=%E2%9C%A6+ACTIVITY+GRAPH+%E2%9C%A6" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FACC15&animation=fadeIn"/>
 
@@ -182,7 +182,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=62&duration=800&pause=0&color=C084FC&center=true&vCenter=true&repeat=false&width=1600&height=120&lines=%F0%9F%8C%8C+VIBES+%F0%9F%8C%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=3000&pause=0&color=C084FC&center=true&vCenter=true&repeat=false&width=1700&height=120&lines=%E2%9C%A6+VIBES+%E2%9C%A6" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=C084FC&animation=fadeIn"/>
 
@@ -192,13 +192,14 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=800&pause=0&color=F5F3FF&center=true&vCenter=true&multiline=true&repeat=false&width=2200&height=260&lines=%F0%9F%94%93+root+access+feels+like+freedom;%F0%9F%8E%A7+anime+soundtracks+hit+harder+at+night;%F0%9F%8C%99+late+night+linux+sessions" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=3200&pause=0&color=F5F3FF&center=true&vCenter=true&multiline=true&repeat=false&width=2200&height=260&lines=%E2%9C%A6+root+access+feels+like+freedom;%E2%9C%A6+anime+soundtracks+hit+harder+at+night;%E2%9C%A6+late+night+linux+sessions" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%8C_Anime-111827?style=for-the-badge&logo=anilist&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%A7_J--Music-111827?style=for-the-badge&logo=spotify&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/%F0%9F%8C%83_Cyberpunk-111827?style=for-the-badge&logo=ghost&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6-111827?style=for-the-badge&logo=ghost&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/%E2%97%88-111827?style=for-the-badge&logo=protonmail&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/%E2%97%86-111827?style=for-the-badge&logo=obsidian&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/%E2%9C%B4-111827?style=for-the-badge&logo=warp&logoColor=C084FC"/>
 
 </div>
 
@@ -216,14 +217,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=62&duration=800&pause=0&color=F87171&center=true&vCenter=true&repeat=false&width=1600&height=120&lines=%F0%9F%8C%90+CONNECT+%F0%9F%8C%90" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=3000&pause=0&color=F87171&center=true&vCenter=true&repeat=false&width=1700&height=120&lines=%E2%9C%A6+CONNECT+%E2%9C%A6" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=F87171&animation=fadeIn"/>
 
 <br/>
 
 <a href="https://github.com/4nx3b">
-<img src="https://img.shields.io/badge/%F0%9F%90%99_GitHub_Profile-111827?style=for-the-badge&logo=github&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/GitHub_Profile-111827?style=for-the-badge&logo=github&logoColor=F87171"/>
 </a>
 
 </div>
@@ -234,7 +235,7 @@
 
 <br/>
 
-<!-- FOOTER -->
+<!-- FOOTER IMAGE -->
 
 <img src="https://i.pinimg.com/originals/8f/1b/5d/8f1b5d0d5f6db8d7e2f0e7d6d8b8c8f4.gif" width="100%" style="border-radius:18px;"/>
 
