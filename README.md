@@ -179,7 +179,7 @@
 <!-- FOOTER -->
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/spy-x-family-yor.gif"
+    src="https://github.com/4nx3b/4nx3b/blob/main/spy-x-family-yor.gif"
     width="100%"
     style="border-radius:18px;"
   />
