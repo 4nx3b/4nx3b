@@ -37,3 +37,30 @@ handle    →  4nx3b
 role      →  Android Root Dev
 method    →  break → understand → rebuild
 passion   →  system internals, low-level Linux, RE
+<div align="center">
+
+## ◈ `[ WHAT I DO ]` ◈
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1500&pause=400&color=00FFB3&center=true&vCenter=true&width=700&height=25&lines=user%404nx3b%3A~%24+cat+specializations.yml;loading+modules...;root+access+confirmed+✓" />
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔓 Android Root
+```yaml
+tools:
+  - Magisk
+  - KernelSU  
+  - Shamiko
+
+scope:
+  - systemless root
+  - module development
+  - SafetyNet / PI bypass
+
+depth: bootloader → recovery → system
