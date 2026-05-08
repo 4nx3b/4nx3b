@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=900&color=0:050008,50:2D004D,100:000000&text=4nx3b&fontSize=340&fontColor=C77DFF&fontAlignY=38&animation=fadeIn&desc=android%20root%20•%20kernel%20mods%20•%20linux%20•%20anime&descAlignY=60&descSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=450&color=0:050008,50:2D004D,100:000000&text=4nx3b&fontSize=170&fontColor=C77DFF&fontAlignY=38&animation=fadeIn&desc=android%20root%20•%20kernel%20mods%20•%20linux%20•%20anime&descAlignY=60&descSize=45"/>
 
 <br/><br/><br/><br/><br/>
 
@@ -45,14 +45,6 @@
 <img src="https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
 <img src="https://img.shields.io/badge/Fastboot-000000?style=for-the-badge&logo=android&logoColor=C77DFF"/>
 <img src="https://img.shields.io/badge/LSPosed-000000?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=720&duration=2200&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=false&width=27000&height=3000&lines=%F0%9F%8E%AF+%5B+CURRENT+MISSION+%5D+%F0%9F%8E%AF" />
-
-<br/><br/><br/><br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=450&duration=3200&pause=1200&color=9D4EDD&center=true&vCenter=true&multiline=true&width=36000&height=15000&lines=%F0%9F%9A%80+optimizing+android+beyond+stock+limits;%F0%9F%94%A5+building+cleaner+and+faster+systems;%F0%9F%A7%A9+experimenting+with+kernels+and+modules;%F0%9F%8E%A8+turning+customization+into+an+artform" />
 
 <br/><br/><br/><br/><br/><br/><br/>
 
