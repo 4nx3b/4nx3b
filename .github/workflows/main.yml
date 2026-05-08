@@ -2,8 +2,8 @@ name: Update AniList Watching
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch:          # allow manual trigger from Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -11,18 +11,21 @@ jobs:
     permissions:
       contents: write
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.6.0
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
       - name: Run AniList updater
         env:
-          ANILIST_USERNAME: ${{ secrets.ANILIST_USERNAME }}   # set this in repo Settings → Secrets
+          ANILIST_USERNAME: ${{ secrets.ANILIST_USERNAME }}
         run: python update_anime.py
 
       - name: Commit & push if changed
@@ -32,4 +35,3 @@ jobs:
           git add README.md
           git diff --cached --quiet || git commit -m "chore: sync AniList currently watching [skip ci]"
           git push
-          
