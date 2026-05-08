@@ -8,7 +8,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816
 
 <br/><br/>
 
-<!-- TOP GLOW -->
+<!-- TOP DIVIDER -->
 
 <img 
 width="100%" 
@@ -26,7 +26,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=1&color=7DD3FC"
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=✦%20WHO%20AM%20I%20✦&fontSize=42&fontColor=7DD3FC&animation=fadeIn"
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=2400&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=1400&height=100&lines=✦+WHO+AM+I+✦"
 />
 
 <img 
@@ -37,7 +37,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=1&color=7DD3FC"
 <br/>
 
 <img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=440&text=✦%20alias%20→%20frost%20✦%20android%20root%20specialist%20✦%20kernels%20/%20mods%20/%20system%20internals%20✦%20linux%20/%20android%20✦%20anime%20/%20gaming%20/%20japanese%20music%20✦%20cyberpunk%20aesthetic%20✦&fontSize=28&fontColor=E2E8F0&animation=fadeIn"
+src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=34&duration=2600&pause=0&color=E2E8F0&center=true&vCenter=true&multiline=true&repeat=false&width=2200&height=820&lines=✦+alias+→+frost;✦+android+root+specialist;✦+kernels+/+mods+/+system+internals;✦+break+→+understand+→+rebuild;✦+linux+/+android;✦+bash+/+adb+/+fastboot;✦+anime+/+gaming+/+japanese+music;✦+always+talking+about+tech;✦+cyberpunk+aesthetic"
 />
 
 <br/>
@@ -74,7 +74,7 @@ style="border-radius:18px;"
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=✦%20SYSTEM%20STATUS%20✦&fontSize=42&fontColor=4ADE80&animation=fadeIn"
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=2400&pause=0&color=4ADE80&center=true&vCenter=true&repeat=false&width=1400&height=100&lines=✦+SYSTEM+STATUS+✦"
 />
 
 <img 
@@ -85,7 +85,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=1&color=4ADE80"
 <br/>
 
 <img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=✦%20Bootloader%20Unlocked%20✦%20Root%20Access%20Granted%20✦%20Kernel%20Modified%20✦%20Integrity%20Disabled%20✦&fontSize=28&fontColor=DCFCE7&animation=fadeIn"
+src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=34&duration=2600&pause=0&color=DCFCE7&center=true&vCenter=true&multiline=true&repeat=false&width=2200&height=320&lines=✦+Bootloader+Unlocked;✦+Root+Access+Granted;✦+Kernel+Modified;✦+Integrity+Disabled"
 />
 
 <br/>
@@ -112,7 +112,7 @@ src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=✦%
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=✦%20ANDROID%20ARSENAL%20✦&fontSize=42&fontColor=FB923C&animation=fadeIn"
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=2400&pause=0&color=FB923C&center=true&vCenter=true&repeat=false&width=1400&height=100&lines=✦+ANDROID+ARSENAL+✦"
 />
 
 <img 
@@ -151,7 +151,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FB923C"
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=✦%20GITHUB%20STATS%20✦&fontSize=42&fontColor=F472B6&animation=fadeIn"
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=2400&pause=0&color=F472B6&center=true&vCenter=true&repeat=false&width=1400&height=100&lines=✦+GITHUB+STATS+✦"
 />
 
 <img 
@@ -197,7 +197,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=✦%20ACTIVITY%20GRAPH%20✦&fontSize=42&fontColor=FACC15&animation=fadeIn"
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=2400&pause=0&color=FACC15&center=true&vCenter=true&repeat=false&width=1400&height=100&lines=✦+ACTIVITY+GRAPH+✦"
 />
 
 <img 
@@ -229,86 +229,4 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=4nx3b&theme=
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=✦%20VIBES%20✦&fontSize=42&fontColor=C084FC&animation=fadeIn"
-/>
-
-<img 
-width="100%" 
-src="https://capsule-render.vercel.app/api?type=rect&height=1&color=C084FC"
-/>
-
-<br/>
-
-<img 
-src="https://wallpapercave.com/wp/wp2757874.jpg" 
-width="100%" 
-style="border-radius:18px;"
-/>
-
-<br/><br/>
-
-<img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=240&text=✦%20root%20access%20feels%20like%20freedom%20✦%20anime%20soundtracks%20at%20night%20✦%20linux%20feels%20like%20home%20✦&fontSize=26&fontColor=F5F3FF&animation=fadeIn"
-/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/✦-111827?style=for-the-badge&logo=ghost&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/◈-111827?style=for-the-badge&logo=obsidian&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/◆-111827?style=for-the-badge&logo=warp&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/✴-111827?style=for-the-badge&logo=protonmail&logoColor=C084FC"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- CONNECT -->
-
-<table width="100%">
-<tr>
-<td>
-
-<div align="center">
-
-<img 
-src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=✦%20CONNECT%20✦&fontSize=42&fontColor=F87171&animation=fadeIn"
-/>
-
-<img 
-width="100%" 
-src="https://capsule-render.vercel.app/api?type=rect&height=1&color=F87171"
-/>
-
-<br/><br/>
-
-<a href="https://github.com/4nx3b">
-<img src="https://img.shields.io/badge/GitHub_Profile-111827?style=for-the-badge&logo=github&logoColor=F87171"/>
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- FOOTER IMAGE -->
-
-<img 
-src="https://i.pinimg.com/originals/8f/1b/5d/8f1b5d0d5f6db8d7e2f0e7d6d8b8c8f4.gif" 
-width="100%" 
-style="border-radius:18px;"
-/>
-
-<br/><br/>
-
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:000000,50:111827,100:1E1B4B&section=footer"
-/>
-
-</div>
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=240
