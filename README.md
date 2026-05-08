@@ -34,6 +34,6 @@
 
 ```yaml
 handle    →  4nx3b
-role      →  Android Root Dev / Kernel Tinker
+role      →  Android Root Dev
 method    →  break → understand → rebuild
 passion   →  system internals, low-level Linux, RE
