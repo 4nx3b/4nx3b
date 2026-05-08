@@ -179,8 +179,8 @@
 <!-- FOOTER -->
 <div align="center">
   <img 
-    src="https://tenor.com/bYPhA.gif" 
-    width="80%" 
+    src="https://media.tenor.com/images/3f0dbf6b0f9db5c6c6bb0f8f1b4fdf4d/tenor.gif"
+    width="100%"
     style="border-radius:18px;"
   />
 </div>
