@@ -35,7 +35,7 @@
 <br/>
 
 <!-- ANIME_START -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=220&lines=%E2%9C%A6+%E2%96%B6+Frieren%3A+Beyond+Journey%27s+End;%E2%9C%A6+%E2%96%B6+Dandadan;%E2%9C%A6+%E2%96%B6+Solo+Leveling;%E2%9C%A6+%E2%96%B6+Spy+x+Family;%E2%9C%A6+%E2%96%B6+Demon+Slayer" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=440&lines=%E2%9C%A6+%E2%96%B6+School+Rumble+%281%2F26%29;%E2%9C%A6+%E2%96%B6+Gals+Cant+Be+Kind+to+Otaku%21+%285%2F?%29;%E2%9C%A6+%E2%96%B6+OKITSURA%3A+Fell+in+Love+with+an;%E2%9C%A6+++%E2%86%AA+Okinawan+Girl+but+I+Just+Wish+I+Know+What+Shes+Saying+%287%2F12%29;%E2%9C%A6+%E2%96%B6+I+Want+to+End+this+Love+Game+%284%2F12%29;%E2%9C%A6+%E2%96%B6+I+Made+Friends+with+the+Second;%E2%9C%A6+++%E2%86%AA+Prettiest+Girl+in+My+Class+%285%2F12%29;%E2%9C%A6+%E2%96%B6+Seitokai+Yakuindomo+%281%2F13%29;%E2%9C%A6+%E2%96%B6+GTO%3A+Great+Teacher+Onizuka+%285%2F43%29;%E2%9C%A6+%E2%96%B6+The+Comic+Artist++His+Assistants+%282%2F12%29" />
 <!-- ANIME_END -->
 
 <br/>
