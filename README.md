@@ -24,21 +24,36 @@
 <img src="https://img.shields.io/badge/%E2%97%88_ROOT-0D1117?style=for-the-badge&logo=superuser&logoColor=7DD3FC&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=7DD3FC&labelColor=0D1117"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117"/>
 
+<!-- ANIME -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=640&height=72&lines=%E2%9C%A6+CURRENTLY+WATCHING+%E2%9C%A6" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn"/>
+
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=220&lines=%E2%9C%A6+%E2%96%B6+Frieren%3A+Beyond+Journey%27s+End;%E2%9C%A6+%E2%96%B6+Dandadan;%E2%9C%A6+%E2%96%B6+Solo+Leveling;%E2%9C%A6+%E2%96%B6+Spy+x+Family;%E2%9C%A6+%E2%96%B6+Demon+Slayer" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%97%88_ANIME-0D1117?style=for-the-badge&logo=myanimelist&logoColor=F9A8D4"/>
+<img src="https://img.shields.io/badge/%E2%97%88_MANGA-0D1117?style=for-the-badge&logo=bookstack&logoColor=F9A8D4"/>
+<img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4"/>
+<img src="https://img.shields.io/badge/%E2%97%88_CRUNCHYROLL-0D1117?style=for-the-badge&logo=crunchyroll&logoColor=F9A8D4"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
 
 <!-- MAIN VISUAL -->
 
 <img src="https://media.tenor.com/LR4m6Wz-XzcAAAAC/anime-computer.gif" width="75%" style="border-radius:16px;"/>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
-
-<br/>
 
 <!-- STATUS -->
 
@@ -57,11 +72,9 @@
 <img src="https://img.shields.io/badge/%E2%97%88_KERNEL-0D1117?style=for-the-badge&logo=linux&logoColor=4ADE80"/>
 <img src="https://img.shields.io/badge/%E2%97%88_INTEGRITY_OFF-0D1117?style=for-the-badge&logo=shieldcheck&logoColor=4ADE80"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117"/>
-
-<br/>
 
 <!-- ARSENAL -->
 
@@ -79,11 +92,9 @@
 <img src="https://img.shields.io/badge/LSPosed-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
 <img src="https://img.shields.io/badge/Custom_ROMs-0D1117?style=for-the-badge&logo=lineageos&logoColor=FB923C"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FB923C,60:FB923C,100:0D1117"/>
-
-<br/>
 
 <!-- STATS -->
 
@@ -100,11 +111,9 @@
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=4nx3b&theme=dark&hide_border=true&ring=F472B6&fire=F472B6&currStreakLabel=F472B6&background=0D1117&stroke=F472B620"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F472B6,60:F472B6,100:0D1117"/>
-
-<br/>
 
 <!-- ACTIVITY -->
 
@@ -116,11 +125,9 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4nx3b&theme=github-dark&hide_border=true&bg_color=0D1117&color=FACC15&line=FDE047&point=F472B6&area=true&area_color=FACC1520"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FACC15,60:FACC15,100:0D1117"/>
-
-<br/>
 
 <!-- VIBES -->
 
@@ -142,11 +149,9 @@
 <img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=C084FC"/>
 <img src="https://img.shields.io/badge/%E2%97%88_CLAUDE-0D1117?style=for-the-badge&logo=anthropic&logoColor=C084FC"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
-
-<br/>
 
 <!-- CONNECT -->
 
@@ -173,7 +178,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img 
+  <img
     src="https://github.com/4nx3b/4nx3b/blob/main/spy-x-family-yor.gif"
     width="100%"
     style="border-radius:18px;"
