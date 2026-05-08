@@ -161,9 +161,6 @@
 
 <br/>
 
-<a href="https://github.com/4nx3b">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E2E8F0"/>
-</a>
 <a href="https://instagram.com/4nx3b">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6"/>
 </a>
