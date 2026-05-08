@@ -177,6 +177,6 @@
 <br/><br/>
 
 <!-- FOOTER -->
-<img src="https://tenor.com/view/spy-x-family-yor-yor-forger-sword-flail-gif-26850800?type=waving&height=140&color=0:000000,35:1E1B4B,70:111827,100:050816&section=footer&animation=fadeIn"/>
-
+<div align="center">
+<img src="https://tenor.com/view/spy-x-family-yor-yor-forger-sword-flail-gif-26850800" width="80%"/>
 </div>
