@@ -39,6 +39,8 @@ method    →  break → understand → rebuild
 passion   →  system internals, low-level Linux, RE
 <div align="center">
 
+<div align="center">
+
 ## ◈ `[ WHAT I DO ]` ◈
 
 <br/>
@@ -47,20 +49,59 @@ passion   →  system internals, low-level Linux, RE
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00FFB3&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🔓+android_root:;++tools:+[Magisk,+KernelSU,+Shamiko];++scope:+systemless+root+·+module+dev;++depth:+bootloader+→+recovery+→+system" />
 
-### 🔓 Android Root
-```yaml
-tools:
-  - Magisk
-  - KernelSU  
-  - Shamiko
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00E5CC&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🧬+kernel_work:;++patch+%26+recompile+kernels;++arm64+cross-compile+builds;++governor+·+I%2FO+·+zRAM+tuning" />
 
-scope:
-  - systemless root
-  - module development
-  - SafetyNet / PI bypass
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00BFA5&center=true&vCenter=true&multiline=true&width=700&height=200&lines=📦+custom_roms:;++experience:+[AOSP,+LineageOS,+crDroid];++device+tree+·+vendor+blobs;++selinux+policy+patches" />
 
-depth: bootloader → recovery → system
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00FFD9&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🔍+reverse_engineering:;++targets:+APKs+·+blobs+·+native+libs;++tools:+jadx+·+Ghidra+·+frida;++objdump+·+apktool+·+strings" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=700&color=00E5CC&center=true&vCenter=true&width=700&lines=android_root+✓+loaded;kernel_work+✓+loaded;custom_roms+✓+loaded;reverse_engineering+✓+loaded;%5B+all+modules+active+%5D" />
+
+<br/>
+
+
+
+![](https://img.shields.io/badge/Magisk-module_dev-00FFB3?style=flat-square&labelColor=001a12)
+
+
+
+
+![](https://img.shields.io/badge/KernelSU-root_access-00E5CC?style=flat-square&labelColor=001a12)
+
+
+
+
+![](https://img.shields.io/badge/Shamiko-bypass-00BFA5?style=flat-square&labelColor=001a12)
+
+
+
+
+![](https://img.shields.io/badge/AOSP-rom_builds-00FFB3?style=flat-square&labelColor=001a12)
+
+
+
+
+![](https://img.shields.io/badge/LineageOS-device_trees-00E5CC?style=flat-square&labelColor=001a12)
+
+
+
+
+![](https://img.shields.io/badge/Ghidra-reverse_eng-00BFA5?style=flat-square&labelColor=001a12)
+
+
+
+
+![](https://img.shields.io/badge/arm64-cross_compile-00FFB3?style=flat-square&labelColor=001a12)
+
+
+
+
+![](https://img.shields.io/badge/selinux-policy_patches-00E5CC?style=flat-square&labelColor=001a12)
+
+
+
+</div>
