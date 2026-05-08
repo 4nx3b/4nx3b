@@ -237,7 +237,7 @@
 
 <!-- FOOTER IMAGE -->
 
-<img src="https://i.pinimg.com/originals/8f/1b/5d/8f1b5d0d5f6db8d7e2f0e7d6d8b8c8f4.gif" width="100%" style="border-radius:18px;"/>
+<img src="https://www.wallpaperflare.com/white-haired-girl-character-anime-in-red-suit-anime-girls-asuka-langley-soryu-wallpaper-pcmce" width="100%" style="border-radius:18px;"/>
 
 <br/><br/>
 
