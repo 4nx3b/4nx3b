@@ -26,4 +26,84 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&width=100%" />
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=1000&height=90&lines=%5B+TECH+STACK+%5D" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,cpp,python,vscode,androidstudio" />
+
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=1100&height=90&lines=%5B+ANDROID+ARSENAL+%5D" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Magisk-181825?style=for-the-badge&logo=android&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/KernelSU-181825?style=for-the-badge&logo=linux&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/TWRP-181825?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
+<img src="https://img.shields.io/badge/OrangeFox-181825?style=for-the-badge&logo=firefoxbrowser&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/ADB-181825?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
+<img src="https://img.shields.io/badge/Fastboot-181825?style=for-the-badge&logo=android&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/LSPosed-181825?style=for-the-badge&logo=android&logoColor=9D4EDD"/>
+
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=1100&height=90&lines=%5B+CURRENT+MISSION+%5D" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2600&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=1300&height=260&lines=%3E+optimizing+android+beyond+stock+limits;%3E+building+cleaner+and+faster+systems;%3E+experimenting+with+kernels+and+modules;%3E+turning+customization+into+an+artform" />
+
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=1000&height=90&lines=%5B+GITHUB+STATS+%5D" />
+
+<br/><br/>
+
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=4nx3b&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+
+<br/><br/>
+
+<img height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=4nx3b&theme=midnight-purple&hide_border=true&background=0D1117"/>
+
+<br/><br/>
+
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=1100&height=90&lines=%5B+ACTIVITY+GRAPH+%5D" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4nx3b&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=C77DFF"/>
+
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=1000&height=90&lines=%5B+PROFILE+VIBES+%5D" />
+
+<br/><br/>
+
+<img width="85%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime.gif"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2600&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=1200&height=220&lines=root+access+feels+like+freedom;linux+feels+like+home;anime+soundtracks+hit+harder+at+night" />
+
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=38&duration=1800&pause=700&color=C77DFF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=%5B+CONNECT+%5D" />
+
+<br/><br/>
+
+<a href="https://github.com/4nx3b">
+<img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=C77DFF"/>
+</a>
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0017,50:3B0764,100:000000&section=footer"/>
+
 </div>
