@@ -110,9 +110,9 @@ def update_readme(url: str, username: str) -> None:
 
 
 if __name__ == "__main__":
-    print(f"✦ Fetching AniList data for: {zensxin}")
+    print(f"✦ Fetching AniList data for: {ANILIST_USERNAME}")
     try:
-        entries = fetch_watching(zensxin)
+        entries = fetch_watching(ANILIST_USERNAME)
         print(f"✦ Found {len(entries)} currently watching entries")
         for e in entries:
             print(f"  ▶ {e['title']}  ({e['progress']}/{e['episodes']})")
@@ -121,5 +121,5 @@ if __name__ == "__main__":
         entries = []
 
     svg_url = build_typing_svg_url(entries)
-    update_readme(svg_url, zensxin)
+    update_readme(svg_url, ANILIST_USERNAME)
   
