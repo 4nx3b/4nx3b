@@ -4,11 +4,11 @@
 
 <br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=750&duration=2200&pause=800&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=false&width=27000&height=3300&lines=%F0%9F%91%BE+%5B+WHO+AM+I+%5D+%F0%9F%91%BE;user%404nx3b+%E2%86%92+Android+Root+Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=1200&duration=2200&pause=800&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=true&width=45000&height=6000&lines=%F0%9F%91%BE+%5B+WHO+AM+I+%5D+%F0%9F%91%BE;user%404nx3b+%E2%86%92+Android+Root+Specialist" />
 
 <br/><br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=510&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&multiline=true&width=36000&height=27000&lines=%F0%9F%94%AE+handle+%E2%86%92+4nx3b;%E2%9D%84%EF%B8%8F+alias+%E2%86%92+frost;%F0%9F%93%B1+role+%E2%86%92+Android+Root+Specialist;%F0%9F%9B%A0%EF%B8%8F+focus+%E2%86%92+kernels+%2F+mods+%2F+system+internals;%F0%9F%A7%A0+mindset+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+rebuild;.;%F0%9F%90%A7+os+%E2%86%92+linux+%2F+android;%F0%9F%96%A5%EF%B8%8F+terminal+%E2%86%92+always+open;%F0%9F%92%BB+editor+%E2%86%92+vscode;%E2%9A%A1+shell+%E2%86%92+bash;.;%F0%9F%A7%A9+specialties+%E2%86%92+magisk+%2F+kernelsu+%2F+recovery+mods;%F0%9F%94%A5+specialties+%E2%86%92+boot+image+patching;%F0%9F%9A%80+specialties+%E2%86%92+android+optimization;%F0%9F%92%80+specialties+%E2%86%92+low-level+linux+tweaks;.;%F0%9F%8E%8C+interests+%E2%86%92+anime;%F0%9F%8E%A7+interests+%E2%86%92+japanese+music;%F0%9F%8E%AE+interests+%E2%86%92+gaming;%F0%9F%8C%8C+interests+%E2%86%92+cyber+aesthetics;%F0%9F%93%A6+interests+%E2%86%92+open+source;%F0%9F%97%A3%EF%B8%8F+interests+%E2%86%92+talking+about+tech;.;%F0%9F%A7%AA+current+state+%E2%86%92+experimenting;%F0%9F%94%A7+current+state+%E2%86%92+debugging;%F0%9F%92%A3+current+state+%E2%86%92+modifying+everything;.;%F0%9F%91%91+philosophy+%E2%86%92+real+ownership+starts+with+root+access" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=850&duration=4000&pause=1200&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=60000&height=42000&lines=%F0%9F%94%AE+handle+%E2%86%92+4nx3b;%E2%9D%84%EF%B8%8F+alias+%E2%86%92+frost;%F0%9F%93%B1+role+%E2%86%92+Android+Root+Specialist;%F0%9F%9B%A0%EF%B8%8F+focus+%E2%86%92+kernels+%2F+mods+%2F+system+internals;%F0%9F%A7%A0+mindset+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+rebuild;.;%F0%9F%90%A7+os+%E2%86%92+linux+%2F+android;%F0%9F%96%A5%EF%B8%8F+terminal+%E2%86%92+always+open;%F0%9F%92%BB+editor+%E2%86%92+vscode;%E2%9A%A1+shell+%E2%86%92+bash;.;%F0%9F%A7%A9+specialties+%E2%86%92+magisk+%2F+kernelsu+%2F+recovery+mods;%F0%9F%94%A5+specialties+%E2%86%92+boot+image+patching;%F0%9F%9A%80+specialties+%E2%86%92+android+optimization;%F0%9F%92%80+specialties+%E2%86%92+low-level+linux+tweaks;.;%F0%9F%8E%8C+interests+%E2%86%92+anime;%F0%9F%8E%A7+interests+%E2%86%92+japanese+music;%F0%9F%8E%AE+interests+%E2%86%92+gaming;%F0%9F%8C%8C+interests+%E2%86%92+cyber+aesthetics;%F0%9F%93%A6+interests+%E2%86%92+open+source;%F0%9F%97%A3%EF%B8%8F+interests+%E2%86%92+talking+about+tech;.;%F0%9F%A7%AA+current+state+%E2%86%92+experimenting;%F0%9F%94%A7+current+state+%E2%86%92+debugging;%F0%9F%92%A3+current+state+%E2%86%92+modifying+everything;.;%F0%9F%91%91+philosophy+%E2%86%92+real+ownership+starts+with+root+access" />
 
 <br/><br/><br/><br/><br/><br/><br/>
 
@@ -16,7 +16,7 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=660&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=false&width=27000&height=7800&lines=%F0%9F%9A%A8+%5B+SYSTEM+STATUS+%5D+%F0%9F%9A%A8;%F0%9F%94%93+Bootloader+Unlocked;%E2%9A%A1+Root+Access+Granted;%F0%9F%94%A5+Kernel+Modified;%F0%9F%9B%A1%EF%B8%8F+Integrity+Verification+Disabled" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=1000&duration=2800&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=true&width=45000&height=15000&lines=%F0%9F%9A%A8+%5B+SYSTEM+STATUS+%5D+%F0%9F%9A%A8;%F0%9F%94%93+Bootloader+Unlocked;%E2%9A%A1+Root+Access+Granted;%F0%9F%94%A5+Kernel+Modified;%F0%9F%9B%A1%EF%B8%8F+Integrity+Verification+Disabled" />
 
 <br/><br/><br/><br/><br/><br/>
 
@@ -30,11 +30,11 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=75&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=120&width=100%" />
 
 <br/><br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=720&duration=2200&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=false&width=27000&height=3000&lines=%F0%9F%94%A5+%5B+ANDROID+ARSENAL+%5D+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=1100&duration=2400&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=true&width=45000&height=4500&lines=%F0%9F%94%A5+%5B+ANDROID+ARSENAL+%5D+%F0%9F%94%A5" />
 
 <br/><br/><br/><br/><br/>
 
@@ -48,22 +48,22 @@
 
 <br/><br/><br/><br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=720&duration=2200&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=false&width=27000&height=3000&lines=%F0%9F%93%8A+%5B+GITHUB+STATS+%5D+%F0%9F%93%8A" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=1100&duration=2400&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=true&width=45000&height=4500&lines=%F0%9F%93%8A+%5B+GITHUB+STATS+%5D+%F0%9F%93%8A" />
 
 <br/><br/><br/><br/><br/>
 
-<img height="2400" src="https://github-readme-stats.vercel.app/api?username=4nx3b&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img height="3500" src="https://github-readme-stats.vercel.app/api?username=4nx3b&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 <br/><br/><br/><br/><br/>
 
-<img height="2400" src="https://github-readme-streak-stats.herokuapp.com/?user=4nx3b&theme=midnight-purple&hide_border=true&background=0D1117"/>
+<img height="3500" src="https://github-readme-streak-stats.herokuapp.com/?user=4nx3b&theme=midnight-purple&hide_border=true&background=0D1117"/>
 
 <br/><br/><br/><br/><br/>
 
-<img height="2400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img height="3500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 <br/><br/><br/><br/><br/><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=2100&color=0:0D0017,50:3B0764,100:000000&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=3500&color=0:0D0017,50:3B0764,100:000000&section=footer"/>
 
 </div>
