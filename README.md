@@ -188,7 +188,8 @@
 
 <br/>
 
-<img src="<img width="728" height="350" alt="17782704965935135724900940520184" src="https://github.com/user-attachments/assets/ab97fc10-deba-4c5e-87bd-6fc25be1e98b"
+<img src="<img width="728" height="350" alt="17782704965935135724900940520184" src="https://github.com/user-attachments/assets/ab97fc10-deba-4c5e-87bd-6fc25be1e98b" />
+ " width="100%" style="border-radius:18px;"/>
 
 <br/><br/>
 
@@ -234,4 +235,3 @@
 </table>
 
 <br/>
-
