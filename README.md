@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/%E2%97%88_LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=7DD3FC&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/%E2%97%88_ANDROID-0D1117?style=for-the-badge&logo=android&logoColor=7DD3FC&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/%E2%97%88_ROOT-0D1117?style=for-the-badge&logo=superuser&logoColor=7DD3FC&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/%E2%97%88_BASH-0D1117?style=for-the-badge&logo=gnubash&logoColor=7DD3FC&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=7DD3FC&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -74,10 +74,6 @@
 <img src="https://img.shields.io/badge/Magisk-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
 <img src="https://img.shields.io/badge/KernelSU-0D1117?style=for-the-badge&logo=linux&logoColor=FB923C"/>
 <img src="https://img.shields.io/badge/TWRP-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
-<img src="https://img.shields.io/badge/OrangeFox-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=FB923C"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/ADB-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
 <img src="https://img.shields.io/badge/Fastboot-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
 <img src="https://img.shields.io/badge/LSPosed-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
@@ -142,10 +138,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%97%88_GHOST-0D1117?style=for-the-badge&logo=ghost&logoColor=C084FC"/>
 <img src="https://img.shields.io/badge/%E2%97%88_PROTON-0D1117?style=for-the-badge&logo=protonmail&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/%E2%97%88_OBSIDIAN-0D1117?style=for-the-badge&logo=obsidian&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/%E2%97%88_WARP-0D1117?style=for-the-badge&logo=warp&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/%E2%97%88_CLAUDE-0D1117?style=for-the-badge&logo=anthropic&logoColor=C084FC"/>
 
 <br/><br/>
 
@@ -161,6 +156,9 @@
 
 <br/>
 
+<a href="https://github.com/4nx3b">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E2E8F0"/>
+</a>
 <a href="https://instagram.com/4nx3b">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6"/>
 </a>
@@ -180,4 +178,6 @@
     width="100%"
     style="border-radius:18px;"
   />
+</div>
+
 </div>
