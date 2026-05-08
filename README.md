@@ -236,12 +236,3 @@
 
 <br/>
 
-<!-- FOOTER IMAGE -->
-
-<img src="https://www.wallpaperflare.com/white-haired-girl-character-anime-in-red-suit-anime-girls-asuka-langley-soryu-wallpaper-pcmce"
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:000000,50:111827,100:1E1B4B&section=footer"/>
-
-</div>
