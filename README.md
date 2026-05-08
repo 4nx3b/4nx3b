@@ -178,5 +178,9 @@
 
 <!-- FOOTER -->
 <div align="center">
-<img src="https://tenor.com/bYPhA.gif" width="80%"/>
+  <img 
+    src="https://tenor.com/bYPhA.gif" 
+    width="80%" 
+    style="border-radius:18px;"
+  />
 </div>
