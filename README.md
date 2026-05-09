@@ -10,7 +10,6 @@
 
 <!-- WHO AM I -->
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+Yuki+%E2%80%A2+%E9%9B%AA+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117&animation=fadeIn"/>
@@ -33,8 +32,6 @@
 
 [![AniList](https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/user/zensxin/animelist)
 
-<!-- ANIME IMAGE: rename your jpeg to 'yuki-anime-header.jpeg' in your repo, then use: -->
-<!-- https://raw.githubusercontent.com/4nx3b/4nx3b/refs/heads/main/yuki-anime-header.jpeg -->
 <img src="https://raw.githubusercontent.com/4nx3b/4nx3b/refs/heads/main/%F0%9D%95%AF%F0%9D%96%86%F0%9D%96%97%F0%9D%96%90%20%F0%9D%96%86%F0%9D%96%93%F0%9D%96%8E%F0%9D%96%92%F0%9D%96%8A%20%F0%9D%96%8D%F0%9D%96%8A%F0%9D%96%86%F0%9D%96%89%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%98.jpeg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
@@ -146,101 +143,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050816,50:1A0A2E,100:020510&section=footer"/>
 
-</div>
+<!-- ════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- PIXEL WORLD - animated SVG banner, bottommost element                              -->
+<!-- ════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- PIXEL ART -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=C084FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+PIXEL+WORLD+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117&animation=fadeIn"/>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%">
-  <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0a0118"/>
-      <stop offset="100%" stop-color="#1a0a2e"/>
-    </linearGradient>
-    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0f1923"/>
-      <stop offset="100%" stop-color="#0a1018"/>
-    </linearGradient>
-    <radialGradient id="lamplight" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FACC15" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#FACC15" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="moonlight" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#C084FC" stop-opacity="0"/>
-    </radialGradient>
-    <style>
-      .star { animation: twinkle 2s infinite alternate; }
-      .star:nth-child(2) { animation-delay: 0.3s; }
-      .star:nth-child(3) { animation-delay: 0.7s; }
-      .star:nth-child(4) { animation-delay: 1.1s; }
-      .star:nth-child(5) { animation-delay: 1.5s; }
-      .star:nth-child(6) { animation-delay: 0.9s; }
-      .star:nth-child(7) { animation-delay: 0.2s; }
-      .star:nth-child(8) { animation-delay: 1.8s; }
-      @keyframes twinkle { from { opacity: 0.2; } to { opacity: 1; } }
-      .moon-glow { animation: moonpulse 3s infinite alternate; }
-      @keyframes moonpulse { from { filter: drop-shadow(0 0 6px #C084FC); } to { filter: drop-shadow(0 0 18px #C084FC); } }
-      .girl { animation: float 4s ease-in-out infinite; }
-      @keyframes float { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-6px); } }
-      .lamp { animation: lamppulse 2s infinite alternate; }
-      @keyframes lamppulse { from { opacity: 0.7; } to { opacity: 1; } }
-      .cloud1 { animation: driftcloud1 18s linear infinite; }
-      @keyframes driftcloud1 { from { transform: translateX(-120px); } to { transform: translateX(900px); } }
-      .cloud2 { animation: driftcloud2 26s linear infinite; }
-      @keyframes driftcloud2 { from { transform: translateX(900px); } to { transform: translateX(-120px); } }
-      .sakura1 { animation: fall1 7s linear infinite; }
-      .sakura2 { animation: fall2 9s linear infinite; }
-      .sakura3 { animation: fall3 6s linear infinite; }
-      .sakura4 { animation: fall4 11s linear infinite; }
-      @keyframes fall1 { 0% { transform: translate(0,0) rotate(0deg); opacity:1; } 100% { transform: translate(30px,320px) rotate(360deg); opacity:0; } }
-      @keyframes fall2 { 0% { transform: translate(0,0) rotate(0deg); opacity:1; } 100% { transform: translate(-40px,320px) rotate(-360deg); opacity:0; } }
-      @keyframes fall3 { 0% { transform: translate(0,0) rotate(0deg); opacity:1; } 100% { transform: translate(20px,320px) rotate(180deg); opacity:0; } }
-      @keyframes fall4 { 0% { transform: translate(0,0) rotate(0deg); opacity:0.8; } 100% { transform: translate(-20px,320px) rotate(270deg); opacity:0; } }
-      .cat { animation: cattail 1.2s ease-in-out infinite alternate; transform-origin: 478px 218px; }
-      @keyframes cattail { from { transform: rotate(-8deg); } to { transform: rotate(8deg); } }
-    </style>
-  </defs>
+<!-- Upload yuki-pixel-world.svg to the root of your repo, then this line displays it -->
+<img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/yuki-pixel-world.svg" width="100%"/>
 
-  <!-- Background sky -->
-  <rect width="800" height="300" fill="url(#sky)"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
 
-  <!-- Stars -->
-  <g fill="#ffffff">
-    <rect class="star" x="42" y="18" width="2" height="2"/>
-    <rect class="star" x="110" y="35" width="2" height="2"/>
-    <rect class="star" x="200" y="12" width="2" height="2"/>
-    <rect class="star" x="310" y="28" width="2" height="2"/>
-    <rect class="star" x="450" y="10" width="2" height="2"/>
-    <rect class="star" x="530" y="40" width="2" height="2"/>
-    <rect class="star" x="620" y="16" width="2" height="2"/>
-    <rect class="star" x="720" y="30" width="2" height="2"/>
-    <rect class="star" x="760" y="10" width="2" height="2"/>
-    <rect class="star" x="80" y="55" width="2" height="2"/>
-    <rect class="star" x="380" y="50" width="2" height="2"/>
-    <rect class="star" x="680" y="55" width="2" height="2"/>
-  </g>
-
-  <!-- Moon glow halo -->
-  <ellipse class="moon-glow" cx="680" cy="55" rx="40" ry="40" fill="url(#moonlight)"/>
-  <!-- Moon pixel art -->
-  <g class="moon-glow">
-    <rect x="674" y="36" width="12" height="4" fill="#E9D5FF"/>
-    <rect x="670" y="40" width="20" height="4" fill="#E9D5FF"/>
-    <rect x="668" y="44" width="24" height="4" fill="#F3E8FF"/>
-    <rect x="668" y="48" width="24" height="4" fill="#F3E8FF"/>
-    <rect x="668" y="52" width="24" height="4" fill="#F3E8FF"/>
-    <rect x="670" y="56" width="20" height="4" fill="#E9D5FF"/>
-    <rect x="674" y="60" width="12" height="4" fill="#E9D5FF"/>
-    <rect x="676" y="46" width="4" height="4" fill="#C084FC" opacity="0.5"/>
-    <rect x="684" y="54" width="4" height="4" fill="#C084FC" opacity="0.4"/>
-  </g>
-
-  <!-- Drifting clouds -->
-  <g class="cloud1" opacity="0.18">
-    <rect x="100" y="60" width="8" height="4" fill="#7DD3FC"/>
-    <rect x="96" y="64" width="16" height="4" fill="#7DD3FC"/>
-    <rect x="92" y="68" width="24" height="4" fill="#7DD3FC"/>
-    <rect x="96" y="72" width="16" height="4" fill="#7
+</div>
