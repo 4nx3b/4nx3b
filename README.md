@@ -31,7 +31,7 @@
 
 [![AniList](https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/user/zensxin/animelist)
 
-<img src="https://raw.githubusercontent.com/4nx3b/4nx3b/refs/heads/main/yuki-anime-header.jpeg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
 
 <!-- FAVORITES -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=720&height=72&lines=%E2%9C%A6+ALL+TIME+FAVORITES+%E2%9C%A6" />
