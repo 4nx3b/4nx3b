@@ -119,9 +119,6 @@
 
 <img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/%F0%9D%95%AF%F0%9D%96%86%F0%9D%96%97%F0%9D%96%90%20%F0%9D%96%86%F0%9D%96%93%F0%9D%96%8E%F0%9D%96%92%F0%9D%96%8A%20%F0%9D%96%8D%F0%9D%96%8A%F0%9D%96%86%F0%9D%96%89%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%98.jpeg" width="100%" style="border-radius:12px;"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4nx3b&show_icons=true&theme=transparent&hide_border=true&title_color=F472B6&text_color=E5E7EB&icon_color=F472B6&bg_color=0D1117"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout=compact&theme=transparent&hide_border=true&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117"/>
-
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=4nx3b&theme=dark&hide_border=true&ring=F472B6&fire=F472B6&currStreakLabel=F472B6&background=0D1117&stroke=F472B620"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F472B6,60:F472B6,100:0D1117"/>
