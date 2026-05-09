@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7DD3FC,50:C084FC,100:F472B6"/>
 
 <!-- VISITOR COUNTER -->
-![visitors](https://komarev.com/ghpvc/?username=4nx3b&color=7DD3FC&style=flat&label=profile+views)
+[![profile views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2F4nx3b%2Fvisits&query=value&label=%E2%97%88+PROFILE+VIEWS&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=eye&logoColor=7DD3FC)](https://github.com/4nx3b)
 
 <!-- WHO AM I -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+Yuki+%E2%80%A2+%E9%9B%AA+%E2%9C%A6" />
@@ -78,7 +78,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F472B6,60:F472B6,100:0D1117&animation=fadeIn"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=4nx3b&show_icons=true&theme=transparent&hide_border=true&title_color=F472B6&icon_color=C084FC&text_color=CBD5E1&bg_color=0D1117" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout=compact&theme=transparent&hide_border=true&title_color=F472B6&text_color=CBD5E1&bg_color=0D1117" width="49%"/>
+<a href="https://github.com/4nx3b">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4nx3b&theme=github_dark" width="100%"/>
+</a>
+
+<a href="https://github.com/4nx3b">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4nx3b&theme=github_dark" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4nx3b&theme=github_dark" width="49%"/>
+</a>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=4nx3b&theme=dark&hide_border=true&ring=F472B6&fire=F472B6&currStreakLabel=F472B6&background=0D1117&stroke=F472B620"/>
 
