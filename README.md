@@ -54,13 +54,9 @@
 <!-- DEVICES -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=38BDF8&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+DEVICES+%E2%9C%A6" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:38BDF8,60:38BDF8,100:0D1117&animation=fadeIn"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=BAE6FD&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=148&lines=%E2%9C%A6+%F0%9F%93%B1+Realme+GT+Neo+3;%E2%9C%A6+%F0%9F%92%BF+ROM+%E2%86%92+Infinity+X;%E2%9C%A6+%F0%9F%94%A7+Kernel+%E2%86%92+KernelSU;%E2%9C%A6+%F0%9F%94%93+Bootloader+%E2%86%92+Unlocked" />
 
 [![Realme GT Neo 3](https://img.shields.io/badge/%E2%97%88_REALME_GT_NEO_3-0D1117?style=for-the-badge&logo=realme&logoColor=38BDF8&labelColor=0D1117)](https://www.realme.com/eu/realme-gt-neo-3) [![Infinity X ROM](https://img.shields.io/badge/%E2%97%88_INFINITY_X_ROM-0D1117?style=for-the-badge&logo=android&logoColor=38BDF8&labelColor=0D1117)](https://projectinfinity-x.com) [![KernelSU](https://img.shields.io/badge/%E2%97%88_KERNELSU-0D1117?style=for-the-badge&logo=linux&logoColor=38BDF8&labelColor=0D1117)](https://kernelsu.org)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:38BDF8,60:38BDF8,100:0D1117"/>
 
 <!-- ARSENAL -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=FB923C&center=true&vCenter=true&repeat=false&width=760&height=72&lines=%E2%9C%A6+ANDROID+ARSENAL+%E2%9C%A6" />
@@ -68,8 +64,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FB923C,60:FB923C,100:0D1117&animation=fadeIn"/>
 
 [![Magisk](https://img.shields.io/badge/Magisk-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://github.com/topjohnwu/Magisk) [![TWRP](https://img.shields.io/badge/TWRP-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://twrp.me) [![ADB](https://img.shields.io/badge/ADB-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://developer.android.com/tools/adb) [![Fastboot](https://img.shields.io/badge/Fastboot-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://source.android.com/docs/setup/test/running) [![LSPosed](https://img.shields.io/badge/LSPosed-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://github.com/LSPosed/LSPosed)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FB923C,60:FB923C,100:0D1117"/>
 
 <!-- STATS -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F472B6&center=true&vCenter=true&repeat=false&width=660&height=72&lines=%E2%9C%A6+GITHUB+STATS+%E2%9C%A6" />
