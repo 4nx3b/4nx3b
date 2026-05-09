@@ -5,6 +5,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7DD3FC,50:C084FC,100:F472B6"/>
 
+<!-- VISITOR COUNTER -->
+![visitors](https://komarev.com/ghpvc/?username=4nx3b&color=7DD3FC&style=flat&label=profile+views)
+
 <!-- WHO AM I -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+Yuki+%E2%80%A2+%E9%9B%AA+%E2%9C%A6" />
 
@@ -15,7 +18,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117"/>
 
 <!-- QUOTE -->
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=22&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=%22Someone+will+always+need+music.%22+%E2%80%94+Kousei+Arima;%22Even+if+I+can%27t+hear+it%2C+I+want+to+play+for+you.%22+%E2%80%94+Kousei+Arima;%22You+exist+within+me+forever.%22+%E2%80%94+Kaori+Miyazono;%22Spring+will+come+again.+And+so+will+you.%22+%E2%80%94+Kaori+Miyazono" />
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=28&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=%22Someone+will+always+need+music.%22+%E2%80%94+Kousei+Arima;%22Even+if+I+can%27t+hear+it%2C+I+want+to+play+for+you.%22+%E2%80%94+Kousei;%22You+exist+within+me+forever.%22+%E2%80%94+Kaori+Miyazono;%22Spring+will+come+again.+And+so+will+you.%22+%E2%80%94+Kaori" />
 
 <!-- ANIME -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=640&height=72&lines=%E2%9C%A6+CURRENTLY+WATCHING+%E2%9C%A6" />
@@ -75,7 +78,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F472B6,60:F472B6,100:0D1117&animation=fadeIn"/>
 
-<img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/%F0%9D%95%AF%F0%9D%96%86%F0%9D%96%97%F0%9D%96%90%20%F0%9D%96%86%F0%9D%96%93%F0%9D%96%8E%F0%9D%96%92%F0%9D%96%8A%20%F0%9D%96%8D%F0%9D%96%8A%F0%9D%96%86%F0%9D%96%89%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%98.jpeg" width="100%" style="border-radius:12px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=4nx3b&show_icons=true&theme=transparent&hide_border=true&title_color=F472B6&icon_color=C084FC&text_color=CBD5E1&bg_color=0D1117" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout=compact&theme=transparent&hide_border=true&title_color=F472B6&text_color=CBD5E1&bg_color=0D1117" width="49%"/>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=4nx3b&theme=dark&hide_border=true&ring=F472B6&fire=F472B6&currStreakLabel=F472B6&background=0D1117&stroke=F472B620"/>
 
@@ -123,9 +126,11 @@
 
 [![Instagram](https://img.shields.io/badge/%20-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://instagram.com/4nx3b) [![Telegram](https://img.shields.io/badge/%20-0D1117?style=for-the-badge&logo=telegram&logoColor=7DD3FC)](https://t.me/yukihayase) [![Gmail](https://img.shields.io/badge/%20-0D1117?style=for-the-badge&logo=gmail&logoColor=FB923C)](mailto:asaxxhiii@gmail.com)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F87171,60:F87171,100:0D1117"/>
+
 <!-- FOOTER -->
-<div align="center">
-  <img src="https://github.com/4nx3b/4nx3b/blob/main/spy-x-family-yor.gif" width="100%" style="border-radius:18px;"/>
-</div>
+<img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/spy-x-family-yor.gif" width="100%" style="border-radius:18px;"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050816,50:1A0A2E,100:020510&section=footer"/>
 
 </div>
