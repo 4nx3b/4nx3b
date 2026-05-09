@@ -15,13 +15,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117"/>
 
 <!-- QUOTE -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=A78BFA&center=true&vCenter=true&repeat=false&width=480&height=72&lines=%E2%9C%A6+QUOTE+%E2%9C%A6" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:A78BFA,60:A78BFA,100:0D1117&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=4000&pause=1500&color=DDD6FE&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=60&lines=%E2%9C%A6+%22Someone+will+always+need+music.%22+%E2%80%94+Kousei+Arima;%E2%9C%A6+%22Even+if+I+can%27t+hear+it%2C+I+want+to+play+for+you.%22+%E2%80%94+Kousei+Arima;%E2%9C%A6+%22You+exist+within+me+forever.%22+%E2%80%94+Kaori+Miyazono;%E2%9C%A6+%22Spring+will+come+again.+And+so+will+you.%22+%E2%80%94+Kaori+Miyazono" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:A78BFA,60:A78BFA,100:0D1117"/>
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=22&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=%22Someone+will+always+need+music.%22+%E2%80%94+Kousei+Arima;%22Even+if+I+can%27t+hear+it%2C+I+want+to+play+for+you.%22+%E2%80%94+Kousei+Arima;%22You+exist+within+me+forever.%22+%E2%80%94+Kaori+Miyazono;%22Spring+will+come+again.+And+so+will+you.%22+%E2%80%94+Kaori+Miyazono" />
 
 <!-- ANIME -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=640&height=72&lines=%E2%9C%A6+CURRENTLY+WATCHING+%E2%9C%A6" />
