@@ -1,10 +1,14 @@
 <div align="center">
 
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020510,30:0D1117,65:1A0A2E,100:050816&text=Yuki%20%E2%80%A2%20%E9%9B%AA&fontSize=90&fontColor=7DD3FC&fontAlignY=38&animation=fadeIn&desc=%E2%9C%A6%20android%20root%20%E2%80%A2%20linux%20%E2%80%A2%20anime%20%E2%9C%A6&descAlignY=64&descSize=18&stroke=7DD3FC&strokeWidth=1"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7DD3FC,50:C084FC,100:F472B6"/>
 
+<!-- VISITOR COUNTER -->
 ![profile views](https://komarev.com/ghpvc/?username=4nx3b&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true)
+
+<!-- WHO AM I -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+Yuki+%E2%80%A2+%E9%9B%AA+%E2%9C%A6" />
 
@@ -14,19 +18,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117"/>
 
+<!-- QUOTE -->
 <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=28&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=%22Someone+will+always+need+music.%22+%E2%80%94+Kousei+Arima;%22Even+if+I+can%27t+hear+it%2C+I+want+to+play+for+you.%22+%E2%80%94+Kousei;%22You+exist+within+me+forever.%22+%E2%80%94+Kaori+Miyazono;%22Spring+will+come+again.+And+so+will+you.%22+%E2%80%94+Kaori" />
 
+<!-- ANIME -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=640&height=72&lines=%E2%9C%A6+CURRENTLY+WATCHING+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn"/>
 
+<!-- ANIME_START -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=290&lines=%E2%9C%A6+%E2%96%B6+School+Rumble+%281%2F26%29;%E2%9C%A6+%E2%96%B6+Gals+Cant+Be+Kind+to+Otaku%21+%285%2F?%29;%E2%9C%A6+%E2%96%B6+OKITSURA%3A+Fell+in+Love+with+an;%E2%9C%A6+++%E2%86%AA+Okinawan+Girl+but+I+Just+Wish+I+Know+What+Shes+Saying+%287%2F12%29;%E2%9C%A6+%E2%96%B6+I+Want+to+End+this+Love+Game+%284%2F12%29;%E2%9C%A6+%E2%96%B6+I+Made+Friends+with+the+Second;%E2%9C%A6+++%E2%86%AA+Prettiest+Girl+in+My+Class+%285%2F12%29;%E2%9C%A6+%E2%96%B6+Seitokai+Yakuindomo+%281%2F13%29;%E2%9C%A6+%E2%96%B6+GTO%3A+Great+Teacher+Onizuka+%285%2F43%29;%E2%9C%A6+%E2%96%B6+The+Comic+Artist++His+Assistants+%282%2F12%29" />
+<!-- ANIME_END -->
+
 [![AniList](https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/user/zensxin/animelist)
 
 <img src="https://github.com/4nx3b/4nx3b/blob/a9475faed29f4880b83650170e40b4c1087f5a49/yuki-anime-header.jpeg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
 
+<!-- FAVORITES -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=720&height=72&lines=%E2%9C%A6+ALL+TIME+FAVORITES+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn"/>
@@ -35,6 +45,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
 
+<!-- STATUS -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=4ADE80&center=true&vCenter=true&repeat=false&width=680&height=72&lines=%E2%9C%A6+SYSTEM+STATUS+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn"/>
@@ -45,6 +56,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117"/>
 
+<!-- DEVICES -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=38BDF8&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+DEVICES+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:38BDF8,60:38BDF8,100:0D1117&animation=fadeIn"/>
@@ -55,6 +67,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:38BDF8,60:38BDF8,100:0D1117"/>
 
+<!-- ARSENAL -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=FB923C&center=true&vCenter=true&repeat=false&width=760&height=72&lines=%E2%9C%A6+ANDROID+ARSENAL+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FB923C,60:FB923C,100:0D1117&animation=fadeIn"/>
@@ -63,6 +76,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FB923C,60:FB923C,100:0D1117"/>
 
+<!-- STATS -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F472B6&center=true&vCenter=true&repeat=false&width=660&height=72&lines=%E2%9C%A6+GITHUB+STATS+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F472B6,60:F472B6,100:0D1117&animation=fadeIn"/>
@@ -80,6 +94,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F472B6,60:F472B6,100:0D1117"/>
 
+<!-- ACTIVITY -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=FACC15&center=true&vCenter=true&repeat=false&width=760&height=72&lines=%E2%9C%A6+ACTIVITY+GRAPH+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FACC15,60:FACC15,100:0D1117&animation=fadeIn"/>
@@ -88,6 +103,7 @@
 
 <img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/d16ea7aa-cf33-4181-ab40-a92023a2fe61.jpeg" width="100%"/>
 
+<!-- SNAKE -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=4ADE80&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+SNAKE+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn"/>
@@ -100,6 +116,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117"/>
 
+<!-- VIBES -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=C084FC&center=true&vCenter=true&repeat=false&width=480&height=72&lines=%E2%9C%A6+VIBES+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117&animation=fadeIn"/>
@@ -112,6 +129,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
 
+<!-- CONNECT -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F87171&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+CONNECT+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F87171,60:F87171,100:0D1117&animation=fadeIn"/>
@@ -120,8 +138,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F87171,60:F87171,100:0D1117"/>
 
+<!-- FOOTER -->
 <img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/spy-x-family-yor.gif" width="100%" style="border-radius:18px;"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050816,50:1A0A2E,100:020510&section=footer"/>
+
+<!-- ════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- PIXEL WORLD - animated SVG banner, bottommost element                              -->
+<!-- ════════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117&animation=fadeIn"/>
+
+<img src="yuki-pixel-world.gif" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
 
 </div>
