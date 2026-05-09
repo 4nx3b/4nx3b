@@ -117,6 +117,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F472B6,60:F472B6,100:0D1117&animation=fadeIn"/>
 
+<img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/%F0%9D%95%AF%F0%9D%96%86%F0%9D%96%97%F0%9D%96%90%20%F0%9D%96%86%F0%9D%96%93%F0%9D%96%8E%F0%9D%96%92%F0%9D%96%8A%20%F0%9D%96%8D%F0%9D%96%8A%F0%9D%96%86%F0%9D%96%89%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%98.jpeg" width="100%" style="border-radius:12px;"/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=4nx3b&show_icons=true&theme=transparent&hide_border=true&title_color=F472B6&text_color=E5E7EB&icon_color=F472B6&bg_color=0D1117"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nx3b&layout=compact&theme=transparent&hide_border=true&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117"/>
 
@@ -155,8 +157,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=EDE9FE&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=100&lines=%E2%9C%A6+root+access+feels+like+freedom;%E2%9C%A6+anime+soundtracks+hit+harder+at+night;%E2%9C%A6+late+night+linux+sessions" />
 
+<a href="https://proton.me">
 <img src="https://img.shields.io/badge/%E2%97%88_PROTON-0D1117?style=for-the-badge&logo=protonmail&logoColor=C084FC"/>
+</a>
+<a href="https://claude.ai">
 <img src="https://img.shields.io/badge/%E2%97%88_CLAUDE-0D1117?style=for-the-badge&logo=anthropic&logoColor=C084FC"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
 
