@@ -120,8 +120,6 @@
 
 [![Instagram](https://img.shields.io/badge/%20-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://instagram.com/4nx3b) [![Telegram](https://img.shields.io/badge/%20-0D1117?style=for-the-badge&logo=telegram&logoColor=7DD3FC)](https://t.me/yukihayase) [![Gmail](https://img.shields.io/badge/%20-0D1117?style=for-the-badge&logo=gmail&logoColor=FB923C)](mailto:asaxxhiii@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F87171,60:F87171,100:0D1117"/>
-
 <!-- FOOTER -->
 <img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/spy-x-family-yor.gif" width="100%" style="border-radius:18px;"/>
 
@@ -132,8 +130,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117&animation=fadeIn"/>
 
 <img src="yuki-pixel-world.gif" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
 
 </div>
 
