@@ -151,8 +151,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117&animation=fadeIn"/>
 
-<!-- Upload yuki-pixel-world.svg to the root of your repo, then this line displays it -->
-<img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/yuki-pixel-world.svg" width="100%"/>
+<img src="yuki-pixel-world.gif" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
 
