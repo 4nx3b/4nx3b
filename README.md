@@ -141,8 +141,6 @@
 <!-- FOOTER -->
 <img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/spy-x-family-yor.gif" width="100%" style="border-radius:18px;"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050816,50:1A0A2E,100:020510&section=footer"/>
-
 <!-- ════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- PIXEL WORLD - animated SVG banner, bottommost element                              -->
 <!-- ════════════════════════════════════════════════════════════════════════════════════ -->
