@@ -32,7 +32,7 @@
 
 [![AniList](https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/user/zensxin/animelist)
 
-<img src="https://raw.githubusercontent.com/4nx3b/4nx3b/refs/heads/main/%F0%9D%95%AF%F0%9D%96%86%F0%9D%96%97%F0%9D%96%90%20%F0%9D%96%86%F0%9D%96%93%F0%9D%96%8E%F0%9D%96%92%F0%9D%96%8A%20%F0%9D%96%8D%F0%9D%96%8A%F0%9D%96%86%F0%9D%96%89%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%98.jpeg" width="100%"/>
+<img src="https://github.com/4nx3b/4nx3b/blob/a9475faed29f4880b83650170e40b4c1087f5a49/yuki-anime-header.jpeg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
 
