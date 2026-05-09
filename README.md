@@ -104,8 +104,6 @@
   <img alt="snake" src="https://raw.githubusercontent.com/4nx3b/4nx3b/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117"/>
-
 <!-- VIBES -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=C084FC&center=true&vCenter=true&repeat=false&width=480&height=72&lines=%E2%9C%A6+VIBES+%E2%9C%A6" />
 
