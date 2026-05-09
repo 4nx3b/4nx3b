@@ -90,6 +90,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F472B6,60:F472B6,100:0D1117"/>
 
 <!-- ACTIVITY -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=FACC15&center=true&vCenter=true&repeat=false&width=760&height=72&lines=%E2%9C%A6+ACTIVITY+GRAPH+%E2%9C%A6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FACC15,60:FACC15,100:0D1117&animation=fadeIn"/>
 
