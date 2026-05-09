@@ -18,13 +18,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%97%88_LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=7DD3FC&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/%E2%97%88_ANDROID-0D1117?style=for-the-badge&logo=android&logoColor=7DD3FC&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/%E2%97%88_ROOT-0D1117?style=for-the-badge&logo=superuser&logoColor=7DD3FC&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=7DD3FC&labelColor=0D1117"/>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117"/>
 
 <!-- ANIME -->
@@ -42,8 +35,6 @@
 
 <img src="https://img.shields.io/badge/%E2%97%88_ANIME-0D1117?style=for-the-badge&logo=myanimelist&logoColor=F9A8D4"/>
 <img src="https://img.shields.io/badge/%E2%97%88_MANGA-0D1117?style=for-the-badge&logo=bookstack&logoColor=F9A8D4"/>
-<img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4"/>
-<img src="https://img.shields.io/badge/%E2%97%88_CRUNCHYROLL-0D1117?style=for-the-badge&logo=crunchyroll&logoColor=F9A8D4"/>
 
 <br/>
 
@@ -57,11 +48,6 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=88&lines=%E2%9C%A6+%E2%98%85+Attack+on+Titan;%E2%9C%A6+%E2%98%85+Your+Lie+in+April" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/%E2%97%88_ATTACK_ON_TITAN-0D1117?style=for-the-badge&logoColor=F9A8D4&labelColor=0D1117&color=0D1117"/>
-<img src="https://img.shields.io/badge/%E2%97%88_YOUR_LIE_IN_APRIL-0D1117?style=for-the-badge&logoColor=F9A8D4&labelColor=0D1117&color=0D1117"/>
 
 <br/>
 
@@ -124,7 +110,6 @@
 <img src="https://img.shields.io/badge/ADB-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
 <img src="https://img.shields.io/badge/Fastboot-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
 <img src="https://img.shields.io/badge/LSPosed-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
-<img src="https://img.shields.io/badge/Custom_ROMs-0D1117?style=for-the-badge&logo=lineageos&logoColor=FB923C"/>
 
 <br/>
 
@@ -194,7 +179,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/%E2%97%88_PROTON-0D1117?style=for-the-badge&logo=protonmail&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=C084FC"/>
 <img src="https://img.shields.io/badge/%E2%97%88_CLAUDE-0D1117?style=for-the-badge&logo=anthropic&logoColor=C084FC"/>
 
 <br/>
@@ -211,11 +195,14 @@
 <a href="https://instagram.com/4nx3b">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6"/>
 </a>
-<a href="https://t.me/4nx3b">
+<a href="https://t.me/yukihayase">
 <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=7DD3FC"/>
 </a>
-<a href="mailto:4nx3b@gmail.com">
+<a href="mailto:asaxxhiii@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FB923C"/>
+</a>
+<a href="https://anilist.co/user/zensxin/animelist">
+<img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=C084FC"/>
 </a>
 
 <br/><br/>
