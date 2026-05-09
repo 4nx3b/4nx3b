@@ -34,7 +34,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=88&lines=%E2%9C%A6+%E2%98%85+Attack+on+Titan;%E2%9C%A6+%E2%98%85+Your+Lie+in+April" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=110&lines=%E2%9C%A6+%E2%98%85+Attack+on+Titan;%E2%9C%A6+%E2%98%85+Your+Lie+in+April" />
+
+<a href="https://anilist.co/anime/16498/Shingeki-no-Kyojin/">
+<img src="https://img.shields.io/badge/%E2%97%88_ATTACK_ON_TITAN-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4"/>
+</a>
+<a href="https://anilist.co/anime/20665/Shigatsu-wa-Kimi-no-Uso">
+<img src="https://img.shields.io/badge/%E2%97%88_YOUR_LIE_IN_APRIL-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
 
