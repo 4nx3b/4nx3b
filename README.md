@@ -5,9 +5,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7DD3FC,50:C084FC,100:F472B6"/>
 
-<!-- VISITOR COUNTER -->
-![profile views](https://komarev.com/ghpvc/?username=4nx3b&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true)
-
 <!-- WHO AM I -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+Yuki+%E2%80%A2+%E9%9B%AA+%E2%9C%A6" />
@@ -152,3 +149,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
 
 </div>
+<!-- VISITOR COUNTER -->
+![profile views](https://komarev.com/ghpvc/?username=4nx3b&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true)
