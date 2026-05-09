@@ -98,8 +98,6 @@
 
 <img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/d16ea7aa-cf33-4181-ab40-a92023a2fe61.jpeg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nx3b/4nx3b/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4nx3b/4nx3b/output/github-contribution-grid-snake.svg"/>
