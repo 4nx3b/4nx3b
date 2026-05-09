@@ -4,10 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020510,30:0D1117,65:1A0A2E,100:050816&text=Yuki%20%E2%80%A2%20%E9%9B%AA&fontSize=90&fontColor=7DD3FC&fontAlignY=38&animation=fadeIn&desc=%E2%9C%A6%20android%20root%20%E2%80%A2%20linux%20%E2%80%A2%20anime%20%E2%9C%A6&descAlignY=64&descSize=18&stroke=7DD3FC&strokeWidth=1"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7DD3FC,50:C084FC,100:F472B6"/>
-
-<!-- VISITOR COUNTER -->
-[![profile views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2F4nx3b%2Fvisits&query=value&label=%E2%97%88+PROFILE+VIEWS&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=eye&logoColor=7DD3FC)](https://github.com/4nx3b)
-
 <!-- WHO AM I -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+Yuki+%E2%80%A2+%E9%9B%AA+%E2%9C%A6" />
 
