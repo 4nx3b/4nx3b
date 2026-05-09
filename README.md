@@ -92,8 +92,6 @@
 <!-- ACTIVITY -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=FACC15&center=true&vCenter=true&repeat=false&width=760&height=72&lines=%E2%9C%A6+ACTIVITY+GRAPH+%E2%9C%A6" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FACC15,60:FACC15,100:0D1117&animation=fadeIn"/>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4nx3b&theme=github-dark&hide_border=true&bg_color=0D1117&color=FACC15&line=FDE047&point=F472B6&area=true&area_color=FACC1520"/>
 
 <img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/d16ea7aa-cf33-4181-ab40-a92023a2fe61.jpeg" width="100%"/>
