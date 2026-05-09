@@ -3,8 +3,6 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020510,30:0D1117,65:1A0A2E,100:050816&text=Yuki%20%E2%80%A2%20%E9%9B%AA&fontSize=90&fontColor=7DD3FC&fontAlignY=38&animation=fadeIn&desc=%E2%9C%A6%20android%20root%20%E2%80%A2%20linux%20%E2%80%A2%20anime%20%E2%9C%A6&descAlignY=64&descSize=18&stroke=7DD3FC&strokeWidth=1"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7DD3FC,50:C084FC,100:F472B6"/>
-
 <!-- WHO AM I -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+Yuki+%E2%80%A2+%E9%9B%AA+%E2%9C%A6" />
@@ -12,8 +10,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=CBD5E1&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=300&lines=%E2%9C%A6+alias+%E2%86%92+yuki;%E2%9C%A6+android+root+specialist;%E2%9C%A6+kernels+%2F+mods+%2F+system+internals;%E2%9C%A6+break+%E2%86%92+understand+%E2%86%92+rebuild;%E2%9C%A6+linux+%2F+android+%2F+bash+%2F+adb+%2F+fastboot;%E2%9C%A6+anime+%2F+gaming+%2F+japanese+music;%E2%9C%A6+always+talking+about+tech;%E2%9C%A6+cyberpunk+aesthetic" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:7DD3FC,60:7DD3FC,100:0D1117"/>
 
 <!-- QUOTE -->
 <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=28&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=%22Someone+will+always+need+music.%22+%E2%80%94+Kousei+Arima;%22Even+if+I+can%27t+hear+it%2C+I+want+to+play+for+you.%22+%E2%80%94+Kousei;%22You+exist+within+me+forever.%22+%E2%80%94+Kaori+Miyazono;%22Spring+will+come+again.+And+so+will+you.%22+%E2%80%94+Kaori" />
