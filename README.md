@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020510,30:0D1117,65:1A0A2E,100:050816&text=4nx3b&fontSize=90&fontColor=7DD3FC&fontAlignY=38&animation=fadeIn&desc=%E2%9C%A6%20android%20root%20%E2%80%A2%20linux%20%E2%80%A2%20anime%20%E2%9C%A6&descAlignY=64&descSize=18&stroke=7DD3FC&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020510,30:0D1117,65:1A0A2E,100:050816&text=Yuki%20%E2%80%A2%20%E9%9B%AA&fontSize=90&fontColor=7DD3FC&fontAlignY=38&animation=fadeIn&desc=%E2%9C%A6%20android%20root%20%E2%80%A2%20linux%20%E2%80%A2%20anime%20%E2%9C%A6&descAlignY=64&descSize=18&stroke=7DD3FC&strokeWidth=1"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7DD3FC,50:C084FC,100:F472B6"/>
 
@@ -90,7 +90,7 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4nx3b&theme=github-dark&hide_border=true&bg_color=0D1117&color=FACC15&line=FDE047&point=F472B6&area=true&area_color=FACC1520"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FACC15,60:FACC15,100:0D1117"/>
+<img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/d16ea7aa-cf33-4181-ab40-a92023a2fe61.jpeg" width="100%"/>
 
 <!-- SNAKE -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=4ADE80&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+SNAKE+%E2%9C%A6" />
