@@ -39,11 +39,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
 
-<!-- MAIN VISUAL -->
-<img src="https://media.tenor.com/LR4m6Wz-XzcAAAAC/anime-computer.gif" width="75%" style="border-radius:16px;"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
-
 <!-- STATUS -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=4ADE80&center=true&vCenter=true&repeat=false&width=680&height=72&lines=%E2%9C%A6+SYSTEM+STATUS+%E2%9C%A6" />
 
