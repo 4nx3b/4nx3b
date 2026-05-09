@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+Yuki+%E2%80%A2+%E9%9B%AA+%E2%9C%A620android%20root%20%E2%80%A2%20linux%20%E2%80%A2%20anime%20%E2%9C%A6&descAlignY=64&descSize=18&stroke=7DD3FC&strokeWidth=1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=7DD3FC&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+Yuki+%E2%80%A2+%E9%9B%AA+%E2%9C%A6&descAlignY=64&descSize=18&stroke=7DD3FC&strokeWidth=1"/>
 
 <!-- WHO AM I -->
 
