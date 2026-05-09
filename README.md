@@ -23,9 +23,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=290&lines=%E2%9C%A6+%E2%96%B6+School+Rumble+%281%2F26%29;%E2%9C%A6+%E2%96%B6+Gals+Cant+Be+Kind+to+Otaku%21+%285%2F?%29;%E2%9C%A6+%E2%96%B6+OKITSURA%3A+Fell+in+Love+with+an;%E2%9C%A6+++%E2%86%AA+Okinawan+Girl+but+I+Just+Wish+I+Know+What+Shes+Saying+%287%2F12%29;%E2%9C%A6+%E2%96%B6+I+Want+to+End+this+Love+Game+%284%2F12%29;%E2%9C%A6+%E2%96%B6+I+Made+Friends+with+the+Second;%E2%9C%A6+++%E2%86%AA+Prettiest+Girl+in+My+Class+%285%2F12%29;%E2%9C%A6+%E2%96%B6+Seitokai+Yakuindomo+%281%2F13%29;%E2%9C%A6+%E2%96%B6+GTO%3A+Great+Teacher+Onizuka+%285%2F43%29;%E2%9C%A6+%E2%96%B6+The+Comic+Artist++His+Assistants+%282%2F12%29" />
 <!-- ANIME_END -->
 
-<a href="https://anilist.co/user/zensxin/animelist" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4"/>
-</a>
+[![AniList](https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/user/zensxin/animelist)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
 
@@ -34,12 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn"/>
 
-<a href="https://anilist.co/anime/16498/Shingeki-no-Kyojin/" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_ATTACK_ON_TITAN-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4"/>
-</a>
-<a href="https://anilist.co/anime/20665/Shigatsu-wa-Kimi-no-Uso" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_YOUR_LIE_IN_APRIL-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4"/>
-</a>
+[![Attack on Titan](https://img.shields.io/badge/%E2%97%88_ATTACK_ON_TITAN-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/anime/16498/Shingeki-no-Kyojin/) [![Your Lie in April](https://img.shields.io/badge/%E2%97%88_YOUR_LIE_IN_APRIL-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/anime/20665/Shigatsu-wa-Kimi-no-Uso)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117"/>
 
@@ -55,18 +48,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=BBF7D0&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=%E2%9C%A6+Bootloader+Unlocked;%E2%9C%A6+Root+Access+Granted;%E2%9C%A6+Kernel+Modified;%E2%9C%A6+Integrity+Disabled" />
 
-<a href="https://source.android.com/docs/core/architecture/bootloader" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_BOOTLOADER-0D1117?style=for-the-badge&logo=android&logoColor=4ADE80"/>
-</a>
-<a href="https://xdaforums.com/t/an-introduction-to-android-rooting-for-the-complete-beginner.1118120/" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_ROOT-0D1117?style=for-the-badge&logo=superuser&logoColor=4ADE80"/>
-</a>
-<a href="https://source.android.com/docs/core/architecture/kernel" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_KERNEL-0D1117?style=for-the-badge&logo=linux&logoColor=4ADE80"/>
-</a>
-<a href="https://developer.android.com/google/play/integrity/overview" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_INTEGRITY_OFF-0D1117?style=for-the-badge&logo=shieldcheck&logoColor=4ADE80"/>
-</a>
+[![Bootloader](https://img.shields.io/badge/%E2%97%88_BOOTLOADER-0D1117?style=for-the-badge&logo=android&logoColor=4ADE80)](https://source.android.com/docs/core/architecture/bootloader) [![Root](https://img.shields.io/badge/%E2%97%88_ROOT-0D1117?style=for-the-badge&logo=superuser&logoColor=4ADE80)](https://xdaforums.com/t/an-introduction-to-android-rooting-for-the-complete-beginner.1118120/) [![Kernel](https://img.shields.io/badge/%E2%97%88_KERNEL-0D1117?style=for-the-badge&logo=linux&logoColor=4ADE80)](https://source.android.com/docs/core/architecture/kernel) [![Integrity](https://img.shields.io/badge/%E2%97%88_INTEGRITY_OFF-0D1117?style=for-the-badge&logo=shieldcheck&logoColor=4ADE80)](https://developer.android.com/google/play/integrity/overview)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117"/>
 
@@ -77,15 +59,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=BAE6FD&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=148&lines=%E2%9C%A6+%F0%9F%93%B1+Realme+GT+Neo+3;%E2%9C%A6+%F0%9F%92%BF+ROM+%E2%86%92+Infinity+X;%E2%9C%A6+%F0%9F%94%A7+Kernel+%E2%86%92+KernelSU;%E2%9C%A6+%F0%9F%94%93+Bootloader+%E2%86%92+Unlocked" />
 
-<a href="https://www.realme.com/eu/realme-gt-neo-3" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_REALME_GT_NEO_3-0D1117?style=for-the-badge&logo=realme&logoColor=38BDF8&labelColor=0D1117"/>
-</a>
-<a href="https://projectinfinity-x.com" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_INFINITY_X_ROM-0D1117?style=for-the-badge&logo=android&logoColor=38BDF8&labelColor=0D1117"/>
-</a>
-<a href="https://kernelsu.org" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_KERNELSU-0D1117?style=for-the-badge&logo=linux&logoColor=38BDF8&labelColor=0D1117"/>
-</a>
+[![Realme GT Neo 3](https://img.shields.io/badge/%E2%97%88_REALME_GT_NEO_3-0D1117?style=for-the-badge&logo=realme&logoColor=38BDF8&labelColor=0D1117)](https://www.realme.com/eu/realme-gt-neo-3) [![Infinity X ROM](https://img.shields.io/badge/%E2%97%88_INFINITY_X_ROM-0D1117?style=for-the-badge&logo=android&logoColor=38BDF8&labelColor=0D1117)](https://projectinfinity-x.com) [![KernelSU](https://img.shields.io/badge/%E2%97%88_KERNELSU-0D1117?style=for-the-badge&logo=linux&logoColor=38BDF8&labelColor=0D1117)](https://kernelsu.org)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:38BDF8,60:38BDF8,100:0D1117"/>
 
@@ -94,21 +68,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FB923C,60:FB923C,100:0D1117&animation=fadeIn"/>
 
-<a href="https://github.com/topjohnwu/Magisk" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/Magisk-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
-</a>
-<a href="https://twrp.me" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/TWRP-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
-</a>
-<a href="https://developer.android.com/tools/adb" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/ADB-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
-</a>
-<a href="https://source.android.com/docs/setup/test/running" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/Fastboot-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
-</a>
-<a href="https://github.com/LSPosed/LSPosed" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/LSPosed-0D1117?style=for-the-badge&logo=android&logoColor=FB923C"/>
-</a>
+[![Magisk](https://img.shields.io/badge/Magisk-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://github.com/topjohnwu/Magisk) [![TWRP](https://img.shields.io/badge/TWRP-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://twrp.me) [![ADB](https://img.shields.io/badge/ADB-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://developer.android.com/tools/adb) [![Fastboot](https://img.shields.io/badge/Fastboot-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://source.android.com/docs/setup/test/running) [![LSPosed](https://img.shields.io/badge/LSPosed-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://github.com/LSPosed/LSPosed)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:FB923C,60:FB923C,100:0D1117"/>
 
@@ -154,12 +114,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=EDE9FE&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=100&lines=%E2%9C%A6+root+access+feels+like+freedom;%E2%9C%A6+anime+soundtracks+hit+harder+at+night;%E2%9C%A6+late+night+linux+sessions" />
 
-<a href="https://proton.me" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_PROTON-0D1117?style=for-the-badge&logo=protonmail&logoColor=C084FC"/>
-</a>
-<a href="https://claude.ai" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/%E2%97%88_CLAUDE-0D1117?style=for-the-badge&logo=anthropic&logoColor=C084FC"/>
-</a>
+[![Proton](https://img.shields.io/badge/%E2%97%88_PROTON-0D1117?style=for-the-badge&logo=protonmail&logoColor=C084FC)](https://proton.me) [![Claude](https://img.shields.io/badge/%E2%97%88_CLAUDE-0D1117?style=for-the-badge&logo=anthropic&logoColor=C084FC)](https://claude.ai)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:C084FC,60:C084FC,100:0D1117"/>
 
@@ -168,23 +123,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F87171,60:F87171,100:0D1117&animation=fadeIn"/>
 
-<a href="https://instagram.com/4nx3b" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6"/>
-</a>
-<a href="https://t.me/yukihayase" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=7DD3FC"/>
-</a>
-<a href="mailto:asaxxhiii@gmail.com" style="text-decoration:none;display:inline-block;">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FB923C"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://instagram.com/4nx3b) [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=7DD3FC)](https://t.me/yukihayase) [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FB923C)](mailto:asaxxhiii@gmail.com)
 
 <!-- FOOTER -->
 <div align="center">
-  <img
-    src="https://github.com/4nx3b/4nx3b/blob/main/spy-x-family-yor.gif"
-    width="100%"
-    style="border-radius:18px;"
-  />
+  <img src="https://github.com/4nx3b/4nx3b/blob/main/spy-x-family-yor.gif" width="100%" style="border-radius:18px;"/>
 </div>
 
 </div>
