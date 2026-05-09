@@ -98,9 +98,6 @@
 
 <img src="https://raw.githubusercontent.com/4nx3b/4nx3b/main/d16ea7aa-cf33-4181-ab40-a92023a2fe61.jpeg" width="100%"/>
 
-<!-- SNAKE -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=4ADE80&center=true&vCenter=true&repeat=false&width=560&height=72&lines=%E2%9C%A6+SNAKE+%E2%9C%A6" />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn"/>
 
 <picture>
