@@ -18,7 +18,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn"/>
 
 <!-- ANIME_START -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=528&lines=%E2%9C%A6+%E2%96%B6+KAIJU+GIRL+CARAMELISE+%2810%2F12%29;%E2%9C%A6+%E2%96%B6+Kobato+%286%2F24%29;%E2%9C%A6+%E2%96%B6+Love+Unseen+Beneath+the+Clear;%E2%9C%A6+++%E2%86%AA+Night+Sky+%289%2F12%29;%E2%9C%A6+%E2%96%B6+Grand+Blue+Dreaming+Season+3+%289%2F12%29;%E2%9C%A6+%E2%96%B6+Mushoku+Tensei%3A+Jobless;%E2%9C%A6+++%E2%86%AA+Reincarnation+Season+3+%2810%2F14%29;%E2%9C%A6+%E2%96%B6+You+and+I+Are+Polar+Opposites;%E2%9C%A6+++%E2%86%AA+Season+2+%289%2F13%29;%E2%9C%A6+%E2%96%B6+Rich+Girl+Caretaker%3A+Im+Secretly;%E2%9C%A6+++%E2%86%AA+the+Caregiver+of+the+Most+Popular+Girl+in+This+Rich+Kid+School+%289%2F12%29;%E2%9C%A6+%E2%96%B6+The+Tatami+Galaxy+%281%2F11%29" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=FCE7F3&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=60&lines=%E2%9C%A6+%E2%96%B6+Nothing+in+watching+list" />
 <!-- ANIME_END -->
 
 [![AniList](https://img.shields.io/badge/%E2%97%88_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/user/zensxin/animelist)
